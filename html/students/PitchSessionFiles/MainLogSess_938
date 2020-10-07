@@ -1,0 +1,35 @@
+Local Time: Wed, 07 Oct 2020 12:10:59 |** VER-3.00-GLOBAL CODE **| MMainLogFile Initialized - NEW file. | TZ:21600 |  GMT- Wed, 07 Oct 2020 17:10:59
+Play Sound Coordinates: K, 10 to P, 16
+Local Time: 12:10:59 | Check Point 1 | 
+Local Time: 12:10:59 | Check Point 2 | 
+Local Time: 12:10:59 | Check Point 3 | 
+Local Time: 12:10:59 | Check Point 4 | 
+Local Time: 12:10:59 | Check Point 5 | 
+Local Time: 12:10:59 | Check Point 6 | 
+Local Time: 12:10:59 | Check Point 7 | 
+Local: 10/07/20 12:10:59 | 0001-Main                    - | START OF MAIN in home folder: /var/www/html/students | TZ:21600 |  GMT- 10/07/20 17:10:59
+Local: 10/07/20 12:10:59 | 0001-Main                    - | Python Script Runtime Arguments: SmMain.py - ['SmMain.py', '936'] | TZ:21600 |  GMT- 10/07/20 17:10:59
+Local Time: 12:10:59 | Check Point 8 | 
+Local: 10/07/20 12:10:59 | 0001-Main                    - | ('Linux', 'NUC8i5BEH', '5.4.0-48-generic', '#52~18.04.1-Ubuntu SMP Thu Sep 10 12:50:22 UTC 2020', 'x86_64', 'x86_64') | TZ:21600 |  GMT- 10/07/20 17:10:59
+Local: 10/07/20 12:10:59 | 0001-Main                    - | () | TZ:21600 |  GMT- 10/07/20 17:10:59
+Local: 10/07/20 12:10:59 | 0001-Main                    - | uname_result(system='Linux', node='NUC8i5BEH', release='5.4.0-48-generic', version='#52~18.04.1-Ubuntu SMP Thu Sep 10 12:50:22 UTC 2020', machine='x86_64', processor='x86_64') | TZ:21600 |  GMT- 10/07/20 17:10:59
+Local: 10/07/20 12:10:59 | 0001-Main -                   - | Machine ID (UnitSerialNumber) from local smconfig table: CU0043-1 | TZ:21600 |  GMT- 10/07/20 17:10:59
+Local: 10/07/20 12:10:59 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [CU0043-1] | TZ:21600 |  GMT- 10/07/20 17:10:59
+Local: 10/07/20 12:10:59 | main | Machine ID after Marquee CU0043-1 | TZ:21600 |  GMT- 10/07/20 17:10:59
+Local Time: 12:10:59 | Check Point 9 | 
+Local Time: 12:10:59 | Check Point 10 | 
+Local: 10/07/20 12:10:59 |    0001-Main -                   - | Session Number PASSED TO PROGRAM: 936 | TZ:21600 |  GMT- 10/07/20 17:10:59
+Local: 10/07/20 12:10:59 |    0001-Main -                   - | Session Number READ / id Returned: 936 / 834 | TZ:21600 |  GMT- 10/07/20 17:10:59
+Local: 10/07/20 12:10:59 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [VER-3.00] | TZ:21600 |  GMT- 10/07/20 17:10:59
+Local: 10/07/20 12:11:00 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [CU0043-1] | TZ:21600 |  GMT- 10/07/20 17:11:00
+Local: 10/07/20 12:11:01 | main | Session number936 | TZ:21600 |  GMT- 10/07/20 17:11:01
+Local: 10/07/20 12:11:01 | main | {'machineId': 'SM990005', 'status': 'CANCELLED', 'type': 'standard', 'showResults': False, 'showPlateSpeed': True, 'showReleaseSpeed': True} | TZ:21600 |  GMT- 10/07/20 17:11:01
+Local: 10/07/20 12:11:01 | main | {'machineId': 'SM990005', 'status': 'CANCELLED', 'type': 'standard', 'showResults': False, 'showPlateSpeed': True, 'showReleaseSpeed': True} | TZ:21600 |  GMT- 10/07/20 17:11:01
+Local: 10/07/20 12:11:01 | 0030-RunStandardAndPracticeSession       - | run STANDARD Session Mode with session number: [936] | TZ:21600 |  GMT- 10/07/20 17:11:01
+Local: 10/07/20 12:11:01 | 0030-RunStandardAndPracticeSession       - | Starting while loop for KeepProcessingPitches | TZ:21600 |  GMT- 10/07/20 17:11:01
+Local: 10/07/20 12:11:01 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [Admin] | TZ:21600 |  GMT- 10/07/20 17:11:01
+Local: 10/07/20 12:11:01 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-10-07 12:11:01.766105] | TZ:21600 |  GMT- 10/07/20 17:11:01
+Local: 10/07/20 12:11:01 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-10-07 13:11:01.766105] | TZ:21600 |  GMT- 10/07/20 17:11:01
+Local: 10/07/20 12:11:01 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-10-07 12:11:01.766114] | TZ:21600 |  GMT- 10/07/20 17:11:01
+Local: 10/07/20 12:11:01 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 10/07/20 17:11:01
+Local: 10/07/20 12:11:01 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 10/07/20 17:11:01

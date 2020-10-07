@@ -1,0 +1,318 @@
+Local Time: Tue, 21 Jul 2020 16:34:42 |** VER-3.00-GLOBAL CODE **| MMainLogFile Initialized - NEW file. | TZ:21600 |  GMT- Tue, 21 Jul 2020 21:34:42
+Play Sound Coordinates: K, 10 to P, 16
+Local Time: 16:34:42 | Check Point 1 | 
+Local Time: 16:34:42 | Check Point 2 | 
+Local Time: 16:34:42 | Check Point 3 | 
+Local Time: 16:34:42 | Check Point 4 | 
+Local Time: 16:34:42 | Check Point 5 | 
+Local Time: 16:34:42 | Check Point 6 | 
+Local Time: 16:34:42 | Check Point 7 | 
+Local: 07/21/20 16:34:42 | 0001-Main                    - | START OF MAIN in home folder: /var/www/html/students | TZ:21600 |  GMT- 07/21/20 21:34:42
+Local: 07/21/20 16:34:42 | 0001-Main                    - | Python Script Runtime Arguments: SmMain.py - ['SmMain.py', '841'] | TZ:21600 |  GMT- 07/21/20 21:34:42
+Local Time: 16:34:42 | Check Point 8 | 
+Local: 07/21/20 16:34:42 | 0001-Main                    - | ('Linux', 'SM190031', '4.9.0-4-amd64', '#1 SMP Debian 4.9.65-3+deb9u1 (2017-12-23)', 'x86_64', '') | TZ:21600 |  GMT- 07/21/20 21:34:42
+Local: 07/21/20 16:34:42 | 0001-Main                    - | () | TZ:21600 |  GMT- 07/21/20 21:34:42
+Local: 07/21/20 16:34:42 | 0001-Main                    - | uname_result(system='Linux', node='SM190031', release='4.9.0-4-amd64', version='#1 SMP Debian 4.9.65-3+deb9u1 (2017-12-23)', machine='x86_64', processor='') | TZ:21600 |  GMT- 07/21/20 21:34:42
+Local: 07/21/20 16:34:42 | 0001-Main -                   - | Machine ID (UnitSerialNumber) from local smconfig table: CU0022-2 | TZ:21600 |  GMT- 07/21/20 21:34:42
+Local: 07/21/20 16:34:42 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [CU0022-2] | TZ:21600 |  GMT- 07/21/20 21:34:42
+Local: 07/21/20 16:34:42 | main | Machine ID after Marquee CU0022-2 | TZ:21600 |  GMT- 07/21/20 21:34:42
+Local Time: 16:34:42 | Check Point 9 | 
+Local Time: 16:34:42 | Check Point 10 | 
+Local: 07/21/20 16:34:42 |    0001-Main -                   - | Session Number PASSED TO PROGRAM: 841 | TZ:21600 |  GMT- 07/21/20 21:34:42
+Local: 07/21/20 16:34:42 |    0001-Main -                   - | Session Number READ / id Returned: 841 / 739 | TZ:21600 |  GMT- 07/21/20 21:34:42
+Local: 07/21/20 16:34:42 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [VER-3.00] | TZ:21600 |  GMT- 07/21/20 21:34:42
+Local: 07/21/20 16:34:43 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [CU0022-2] | TZ:21600 |  GMT- 07/21/20 21:34:43
+Local: 07/21/20 16:34:44 | main | Session number841 | TZ:21600 |  GMT- 07/21/20 21:34:44
+Local: 07/21/20 16:34:44 | main | {'showResults': True, 'type': 'practice', 'machineId': 'SM990005', 'showPlateSpeed': True, 'status': 'Open', 'showReleaseSpeed': True} | TZ:21600 |  GMT- 07/21/20 21:34:44
+Local: 07/21/20 16:34:44 | main | {'showResults': True, 'type': 'practice', 'machineId': 'SM990005', 'showPlateSpeed': True, 'status': 'Open', 'showReleaseSpeed': True} | TZ:21600 |  GMT- 07/21/20 21:34:44
+Local: 07/21/20 16:34:44 | 0030-RunStandardAndPracticeSession       - | run STANDARD Session Mode with session number: [841] | TZ:21600 |  GMT- 07/21/20 21:34:44
+Local: 07/21/20 16:34:44 | 0030-RunStandardAndPracticeSession       - | Try to run- sudo mkdir  on: [/var/www/html/students/PitchSessionFiles/CU0022-2-000841-A100404] | TZ:21600 |  GMT- 07/21/20 21:34:44
+Local: 07/21/20 16:34:44 | 0030-RunStandardAndPracticeSession       - | Return value from OS on sudo mkdir command: [0] | TZ:21600 |  GMT- 07/21/20 21:34:44
+Local: 07/21/20 16:34:44 | 0030-RunStandardAndPracticeSession       - | Try to run- sudo chmod 777 on: [/var/www/html/students/PitchSessionFiles/CU0022-2-000841-A100404] | TZ:21600 |  GMT- 07/21/20 21:34:44
+Local: 07/21/20 16:34:44 | 0030-RunStandardAndPracticeSession       - | Return value from OS on sudo chmod 777 command: [0] | TZ:21600 |  GMT- 07/21/20 21:34:44
+Local: 07/21/20 16:34:44 | 0030-RunStandardAndPracticeSession       - | Try to run- sudo chown pi on: [/var/www/html/students/PitchSessionFiles/CU0022-2-000841-A100404] | TZ:21600 |  GMT- 07/21/20 21:34:44
+Local: 07/21/20 16:34:44 | 0030-RunStandardAndPracticeSession       - | Return value from OS on sudo chOWN command: [0] | TZ:21600 |  GMT- 07/21/20 21:34:44
+Local: 07/21/20 16:34:44 | 0030-RunStandardAndPracticeSession       - | Try to run- sudo chgrp pi on: [/var/www/html/students/PitchSessionFiles/CU0022-2-000841-A100404] | TZ:21600 |  GMT- 07/21/20 21:34:44
+Local: 07/21/20 16:34:44 | 0030-RunStandardAndPracticeSession       - | Return value from OS on sudo chGRP command: [0] | TZ:21600 |  GMT- 07/21/20 21:34:44
+Local: 07/21/20 16:34:44 | 0030-RunStandardAndPracticeSession       - | Starting while loop for KeepProcessingPitches | TZ:21600 |  GMT- 07/21/20 21:34:44
+Local: 07/21/20 16:34:44 | DEBUG FOR PRACT MODE- MainLoop | PractMode Success-Miss-Total FRAME # - count/limit format:[Frame:(1)  Succ:0/1  Miss:0/2  Totl:0/2 | TZ:21600 |  GMT- 07/21/20 21:34:44
+Local: 07/21/20 16:34:44 | DEBUG FOR PRACT MODE- MainLoop | Marquee Content, MoveOnLiteral, TargetBox: Fastball - After 2nd pitch or success - I,17 / O,22 | TZ:21600 |  GMT- 07/21/20 21:34:44
+Local: 07/21/20 16:34:44 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [Fastball] | TZ:21600 |  GMT- 07/21/20 21:34:44
+Local: 07/21/20 16:34:45 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-07-21 16:34:45.005189] | TZ:21600 |  GMT- 07/21/20 21:34:45
+Local: 07/21/20 16:34:45 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-07-21 17:34:45.005189] | TZ:21600 |  GMT- 07/21/20 21:34:45
+Local: 07/21/20 16:34:45 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-07-21 16:34:45.005203] | TZ:21600 |  GMT- 07/21/20 21:34:45
+Local: 07/21/20 16:34:45 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 07/21/20 21:34:45
+Local: 07/21/20 16:34:45 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 07/21/20 21:34:45
+Local: 07/21/20 16:34:50 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed string: [~ 054. M 
+
+
+] | TZ:21600 |  GMT- 07/21/20 21:34:50
+Local: 07/21/20 16:34:50 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Parse this speed.txt file string: [~ 054. M 
+
+
+] | TZ:21600 |  GMT- 07/21/20 21:34:50
+Local: 07/21/20 16:34:50 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed (integer): [54] | TZ:21600 |  GMT- 07/21/20 21:34:50
+Local: 07/21/20 16:34:50 | 0030-RunStandardAndPracticeSession       - | Response from WaitForSpeedFile:  ReturnSpeedValue = [54]  SpeedAddon = [7] | TZ:21600 |  GMT- 07/21/20 21:34:50
+Local: 07/21/20 16:34:50 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [PLATE SP] | TZ:21600 |  GMT- 07/21/20 21:34:50
+Local: 07/21/20 16:34:51 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [+RELEASE] | TZ:21600 |  GMT- 07/21/20 21:34:51
+Local: 07/21/20 16:34:55 | 0030-RunStandardAndPracticeSession       - | Calling InpactResult: [/home/pi/ImpactLocator/ImpactLocator.out /home/pi/NetworkShare/Cam1BallLine.png /home/pi/NetworkShare/Cam2BallLine.png > /home/pi/NetworkShare/ImpactResult.txt] | TZ:21600 |  GMT- 07/21/20 21:34:55
+Local: 07/21/20 16:34:55 | 6521-XevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for X translation of Ozan % of net to Columns (A-Z) : | TZ:21600 |  GMT- 07/21/20 21:34:55
+Local: 07/21/20 16:34:55 | XevalNetLocPctCoordsV1 | intPctOfXcol: 79 | TZ:21600 |  GMT- 07/21/20 21:34:55
+Local: 07/21/20 16:34:55 | XevalNetLocPctCoordsV1 | gstrFinalImpactSMgridX: V | TZ:21600 |  GMT- 07/21/20 21:34:55
+Local: 07/21/20 16:34:55 | 6543-YevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for Y translation of Ozan % of net to Row (1-26) : | TZ:21600 |  GMT- 07/21/20 21:34:55
+Local: 07/21/20 16:34:55 | YevalNetLocPctCoordsV1 | intPctOfYrow: 32 | TZ:21600 |  GMT- 07/21/20 21:34:55
+Local: 07/21/20 16:34:55 | YevalNetLocPctCoordsV1 | gintFinalImpactSMgridY: 11 | TZ:21600 |  GMT- 07/21/20 21:34:55
+Local: 07/21/20 16:34:55 | DEBUG LINE 10-03-18 htc - x/y coordinate Pct Teaks | Translate Ozans Pct X/Y to Actual X/Y Values = 79 X-pct = V / 32 Y-pct = 11 | TZ:21600 |  GMT- 07/21/20 21:34:55
+Local: 07/21/20 16:34:55 | 0021-EvalSuccessMiss                   - | EvalSuccessMiss: [Baseball, 22, 11] | TZ:21600 |  GMT- 07/21/20 21:34:55
+Local: 07/21/20 16:34:55 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [- MISS -] | TZ:21600 |  GMT- 07/21/20 21:34:55
+Local: 07/21/20 16:34:55 | 0071-DisplayImpactLocation              - | Display Impact location: [22, 11] | TZ:21600 |  GMT- 07/21/20 21:34:55
+Local: 07/21/20 16:34:59 | DEBUG LINE 01-05-19 htc              | Preparing to call MOVEMENT Sub-Routine. | TZ:21600 |  GMT- 07/21/20 21:34:59
+Local: 07/21/20 16:34:59 | DEBUG LINE 01-05-19 htc              | Inside MOVEMENT Sub-Routine. BallCentersString1 (ONE) = [262,79
+257,207
+] | TZ:21600 |  GMT- 07/21/20 21:34:59
+Local: 07/21/20 16:34:59 | DEBUG LINE 01-05-19 htc              | Inside MOVEMENT Sub-Routine. BallCentersString2 (TWO) = [227,34
+228,121
+234,223
+] | TZ:21600 |  GMT- 07/21/20 21:34:59
+Local: 07/21/20 16:34:59 | 6521-XevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for X translation of Ozan % of net to Columns (A-Z) : | TZ:21600 |  GMT- 07/21/20 21:34:59
+Local: 07/21/20 16:34:59 | XevalNetLocPctCoordsV1 | intPctOfXcol: 80 | TZ:21600 |  GMT- 07/21/20 21:34:59
+Local: 07/21/20 16:34:59 | XevalNetLocPctCoordsV1 | gstrFinalImpactSMgridX: V | TZ:21600 |  GMT- 07/21/20 21:34:59
+Local: 07/21/20 16:34:59 | 6543-YevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for Y translation of Ozan % of net to Row (1-26) : | TZ:21600 |  GMT- 07/21/20 21:34:59
+Local: 07/21/20 16:34:59 | YevalNetLocPctCoordsV1 | intPctOfYrow: 16 | TZ:21600 |  GMT- 07/21/20 21:34:59
+Local: 07/21/20 16:34:59 | YevalNetLocPctCoordsV1 | gintFinalImpactSMgridY: 8 | TZ:21600 |  GMT- 07/21/20 21:34:59
+Local: 07/21/20 16:34:59 | 5050-CalculateMovementVer1          - | START TIME- call THREE MOVEMENT .png creations WITH FOUR POINT SMOOTHING: [python /var/www/html/students/plotsingle.py ] | TZ:21600 |  GMT- 07/21/20 21:34:59
+Local: 07/21/20 16:34:59 | 5050-CalculateMovementVer1          - | First Graph Call COMMAND STRING: python /var/www/html/students/plotsingle.py -o "/home/pi/front.png" -p "32, 0,59|31,-12.5,48" -a "Front" -c "r" -t "Front View- Sess: 841  Name: PCA
+Pitch#: 1  Plate MPH: 54
+Pitch Call: MISS  Impact Coords: V, 11"] | TZ:21600 |  GMT- 07/21/20 21:34:59
+Local: 07/21/20 16:34:59 | 5050-CalculateMovementVer1          - | First Graph Call RESULT: 0] | TZ:21600 |  GMT- 07/21/20 21:34:59
+Local: 07/21/20 16:35:00 | 5050-CalculateMovementVer1          - | Second Graph Call COMMAND STRING: python /var/www/html/students/plotsingle.py -o "/home/pi/side.png" -p "32, 0,59|31,-12.5,48" -a "Side" -c "g" -t "Side View- Sess: 841  Name: PCA
+Pitch#: 1  Plate MPH: 54
+Pitch Call: MISS  Impact Coords: V, 11"] | TZ:21600 |  GMT- 07/21/20 21:35:00
+Local: 07/21/20 16:35:00 | 5050-CalculateMovementVer1          - | Second Graph Call RESULT: 0] | TZ:21600 |  GMT- 07/21/20 21:35:00
+Local: 07/21/20 16:35:01 | 5050-CalculateMovementVer1          - | Third Graph Call COMMAND STRING: python /var/www/html/students/plotsingle.py -o "/home/pi/top.png" -p "32, 0,59|31,-12.5,48" -a "Top" -c "b" -t "Top View- Sess: 841  Name: PCA
+Pitch#: 1  Plate MPH: 54
+Pitch Call: MISS  Impact Coords: V, 11"] | TZ:21600 |  GMT- 07/21/20 21:35:01
+Local: 07/21/20 16:35:01 | 5050-CalculateMovementVer1          - | Third Graph Call RESULT: 0] | TZ:21600 |  GMT- 07/21/20 21:35:01
+Local: 07/21/20 16:35:01 | 3010-CalculateMovementVer1          - | STOP TIME- call THREE MOVEMENT .png creations: [python /var/www/html/students/plotsingle.py -o "/home/pi/top.png" -p "32, 0,59|31,-12.5,48" -a "Top" -c "b" -t "Top View- Sess: 841  Name: PCA
+Pitch#: 1  Plate MPH: 54
+Pitch Call: MISS  Impact Coords: V, 11"] | TZ:21600 |  GMT- 07/21/20 21:35:01
+Local: 07/21/20 16:35:01 | DEBUG LINE 01-05-19 htc              | Movement Sub-routine Call Result: [None] | TZ:21600 |  GMT- 07/21/20 21:35:01
+Local: 07/21/20 16:35:01 | WriteOnePitchToLocalPitchTable | Machine ID at start of WriteOnePitchToLocalPitchTable CU0022-2 | TZ:21600 |  GMT- 07/21/20 21:35:01
+Local: 07/21/20 16:35:01 | 3460-WriteOnePitchToLocalPitchTable - | Valstring: ) Values ("CU0022-2", "A100404", "841", "1", "54", "61", "22", "V", "11", "MISS", "30", "Baseball", "2020-07-21 16:35:01.641462", "practice", "-Bullpen Session 1 - FB/CH", "PRACTICE", "None", "-*-", "-*-", "-*-", "-*-", "0", "unknown", "Fastball", "Fastball", "-*-", "Cam-ONE-pixelsX/Y: 262, 79 / 257, 207 | Cam-TWO-pixelsX/Y: 227, 34 / 228, 121 / 234, 223", "01/01/1900", "-*-", "right cam tag", "left cam tag", "spin cam tag", "PitchSessionFiles/CU0022-2-000841-A100404/001Cam1CriticalFrame.png", "PitchSessionFiles/CU0022-2-000841-A100404/001Impact.jpg", "PitchSessionFiles/CU0022-2-000841-A100404/001front.png", "PitchSessionFiles/CU0022-2-000841-A100404/001side.png", "PitchSessionFiles/CU0022-2-000841-A100404/001top.png", "", "impact", "img right", "img left", "target", "", "I", "9", "17", "O", "15", "22", "1", "PS-01", "RS-01: +7", "0", "V", "8") | TZ:21600 |  GMT- 07/21/20 21:35:01
+Local: 07/21/20 16:35:01 | 3460-WriteOnePitchToLocalPitchTable - | CurrPitch_MovementInfo for Pitch [1] Cam-ONE-pixelsX/Y: 262, 79 / 257, 207 | Cam-TWO-pixelsX/Y: 227, 34 / 228, 121 / 234, 223 | TZ:21600 |  GMT- 07/21/20 21:35:01
+Local: 07/21/20 16:35:01 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [Fastball] | TZ:21600 |  GMT- 07/21/20 21:35:01
+Local: 07/21/20 16:35:01 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-07-21 16:35:01.772462] | TZ:21600 |  GMT- 07/21/20 21:35:01
+Local: 07/21/20 16:35:01 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-07-21 17:35:01.772462] | TZ:21600 |  GMT- 07/21/20 21:35:01
+Local: 07/21/20 16:35:01 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-07-21 16:35:01.772481] | TZ:21600 |  GMT- 07/21/20 21:35:01
+Local: 07/21/20 16:35:01 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 07/21/20 21:35:01
+Local: 07/21/20 16:35:01 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 07/21/20 21:35:01
+Local: 07/21/20 16:35:05 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed string: [~ 053. M 
+
+
+] | TZ:21600 |  GMT- 07/21/20 21:35:05
+Local: 07/21/20 16:35:05 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Parse this speed.txt file string: [~ 053. M 
+
+
+] | TZ:21600 |  GMT- 07/21/20 21:35:05
+Local: 07/21/20 16:35:05 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed (integer): [53] | TZ:21600 |  GMT- 07/21/20 21:35:05
+Local: 07/21/20 16:35:05 | 0030-RunStandardAndPracticeSession       - | Response from WaitForSpeedFile:  ReturnSpeedValue = [53]  SpeedAddon = [7] | TZ:21600 |  GMT- 07/21/20 21:35:05
+Local: 07/21/20 16:35:05 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [PLATE SP] | TZ:21600 |  GMT- 07/21/20 21:35:05
+Local: 07/21/20 16:35:06 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [+RELEASE] | TZ:21600 |  GMT- 07/21/20 21:35:06
+Local: 07/21/20 16:35:10 | 0030-RunStandardAndPracticeSession       - | Calling InpactResult: [/home/pi/ImpactLocator/ImpactLocator.out /home/pi/NetworkShare/Cam1BallLine.png /home/pi/NetworkShare/Cam2BallLine.png > /home/pi/NetworkShare/ImpactResult.txt] | TZ:21600 |  GMT- 07/21/20 21:35:10
+Local: 07/21/20 16:35:10 | 6521-XevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for X translation of Ozan % of net to Columns (A-Z) : | TZ:21600 |  GMT- 07/21/20 21:35:10
+Local: 07/21/20 16:35:10 | XevalNetLocPctCoordsV1 | intPctOfXcol: 17 | TZ:21600 |  GMT- 07/21/20 21:35:10
+Local: 07/21/20 16:35:10 | XevalNetLocPctCoordsV1 | gstrFinalImpactSMgridX: F | TZ:21600 |  GMT- 07/21/20 21:35:10
+Local: 07/21/20 16:35:10 | 6543-YevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for Y translation of Ozan % of net to Row (1-26) : | TZ:21600 |  GMT- 07/21/20 21:35:10
+Local: 07/21/20 16:35:10 | YevalNetLocPctCoordsV1 | intPctOfYrow: 92 | TZ:21600 |  GMT- 07/21/20 21:35:10
+Local: 07/21/20 16:35:10 | YevalNetLocPctCoordsV1 | gintFinalImpactSMgridY: 25 | TZ:21600 |  GMT- 07/21/20 21:35:10
+Local: 07/21/20 16:35:10 | DEBUG LINE 10-03-18 htc - x/y coordinate Pct Teaks | Translate Ozans Pct X/Y to Actual X/Y Values = 17 X-pct = F / 92 Y-pct = 25 | TZ:21600 |  GMT- 07/21/20 21:35:10
+Local: 07/21/20 16:35:10 | 0021-EvalSuccessMiss                   - | EvalSuccessMiss: [Baseball, 6, 25] | TZ:21600 |  GMT- 07/21/20 21:35:10
+Local: 07/21/20 16:35:10 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [- MISS -] | TZ:21600 |  GMT- 07/21/20 21:35:10
+Local: 07/21/20 16:35:10 | 0071-DisplayImpactLocation              - | Display Impact location: [6, 25] | TZ:21600 |  GMT- 07/21/20 21:35:10
+Local: 07/21/20 16:35:13 | DEBUG LINE 01-05-19 htc              | Preparing to call MOVEMENT Sub-Routine. | TZ:21600 |  GMT- 07/21/20 21:35:13
+Local: 07/21/20 16:35:13 | DEBUG LINE 01-05-19 htc              | Inside MOVEMENT Sub-Routine. BallCentersString1 (ONE) = [310,78
+309,131
+307,189
+] | TZ:21600 |  GMT- 07/21/20 21:35:13
+Local: 07/21/20 16:35:13 | DEBUG LINE 01-05-19 htc              | Inside MOVEMENT Sub-Routine. BallCentersString2 (TWO) = [477,56
+489,115
+501,181
+508,245
+] | TZ:21600 |  GMT- 07/21/20 21:35:13
+Local: 07/21/20 16:35:13 | 6521-XevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for X translation of Ozan % of net to Columns (A-Z) : | TZ:21600 |  GMT- 07/21/20 21:35:13
+Local: 07/21/20 16:35:13 | XevalNetLocPctCoordsV1 | intPctOfXcol: 16 | TZ:21600 |  GMT- 07/21/20 21:35:13
+Local: 07/21/20 16:35:13 | XevalNetLocPctCoordsV1 | gstrFinalImpactSMgridX: F | TZ:21600 |  GMT- 07/21/20 21:35:13
+Local: 07/21/20 16:35:13 | 6543-YevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for Y translation of Ozan % of net to Row (1-26) : | TZ:21600 |  GMT- 07/21/20 21:35:13
+Local: 07/21/20 16:35:13 | YevalNetLocPctCoordsV1 | intPctOfYrow: 74 | TZ:21600 |  GMT- 07/21/20 21:35:13
+Local: 07/21/20 16:35:13 | YevalNetLocPctCoordsV1 | gintFinalImpactSMgridY: 22 | TZ:21600 |  GMT- 07/21/20 21:35:13
+Local: 07/21/20 16:35:13 | 5050-CalculateMovementVer1          - | START TIME- call THREE MOVEMENT .png creations WITH FOUR POINT SMOOTHING: [python /var/www/html/students/plotsingle.py ] | TZ:21600 |  GMT- 07/21/20 21:35:13
+Local: 07/21/20 16:35:14 | 5050-CalculateMovementVer1          - | First Graph Call COMMAND STRING: python /var/www/html/students/plotsingle.py -o "/home/pi/front.png" -p "5, 0,18|6,-12.5,6" -a "Front" -c "r" -t "Front View- Sess: 841  Name: PCA
+Pitch#: 2  Plate MPH: 53
+Pitch Call: MISS  Impact Coords: F, 25"] | TZ:21600 |  GMT- 07/21/20 21:35:14
+Local: 07/21/20 16:35:14 | 5050-CalculateMovementVer1          - | First Graph Call RESULT: 0] | TZ:21600 |  GMT- 07/21/20 21:35:14
+Local: 07/21/20 16:35:15 | 5050-CalculateMovementVer1          - | Second Graph Call COMMAND STRING: python /var/www/html/students/plotsingle.py -o "/home/pi/side.png" -p "5, 0,18|6,-12.5,6" -a "Side" -c "g" -t "Side View- Sess: 841  Name: PCA
+Pitch#: 2  Plate MPH: 53
+Pitch Call: MISS  Impact Coords: F, 25"] | TZ:21600 |  GMT- 07/21/20 21:35:15
+Local: 07/21/20 16:35:15 | 5050-CalculateMovementVer1          - | Second Graph Call RESULT: 0] | TZ:21600 |  GMT- 07/21/20 21:35:15
+Local: 07/21/20 16:35:16 | 5050-CalculateMovementVer1          - | Third Graph Call COMMAND STRING: python /var/www/html/students/plotsingle.py -o "/home/pi/top.png" -p "5, 0,18|6,-12.5,6" -a "Top" -c "b" -t "Top View- Sess: 841  Name: PCA
+Pitch#: 2  Plate MPH: 53
+Pitch Call: MISS  Impact Coords: F, 25"] | TZ:21600 |  GMT- 07/21/20 21:35:16
+Local: 07/21/20 16:35:16 | 5050-CalculateMovementVer1          - | Third Graph Call RESULT: 0] | TZ:21600 |  GMT- 07/21/20 21:35:16
+Local: 07/21/20 16:35:16 | 3010-CalculateMovementVer1          - | STOP TIME- call THREE MOVEMENT .png creations: [python /var/www/html/students/plotsingle.py -o "/home/pi/top.png" -p "5, 0,18|6,-12.5,6" -a "Top" -c "b" -t "Top View- Sess: 841  Name: PCA
+Pitch#: 2  Plate MPH: 53
+Pitch Call: MISS  Impact Coords: F, 25"] | TZ:21600 |  GMT- 07/21/20 21:35:16
+Local: 07/21/20 16:35:16 | DEBUG LINE 01-05-19 htc              | Movement Sub-routine Call Result: [None] | TZ:21600 |  GMT- 07/21/20 21:35:16
+Local: 07/21/20 16:35:16 | WriteOnePitchToLocalPitchTable | Machine ID at start of WriteOnePitchToLocalPitchTable CU0022-2 | TZ:21600 |  GMT- 07/21/20 21:35:16
+Local: 07/21/20 16:35:16 | 3460-WriteOnePitchToLocalPitchTable - | Valstring: ) Values ("CU0022-2", "A100404", "841", "2", "53", "60", "6", "F", "25", "MISS", "30", "Baseball", "2020-07-21 16:35:16.173057", "practice", "-Bullpen Session 1 - FB/CH", "PRACTICE", "None", "-*-", "-*-", "-*-", "-*-", "0", "unknown", "Fastball", "Fastball", "-*-", "Cam-ONE-pixelsX/Y: 310, 78 / 309, 131 / 307, 189 | Cam-TWO-pixelsX/Y: 477, 56 / 489, 115 / 501, 181 / 508, 245", "01/01/1900", "-*-", "right cam tag", "left cam tag", "spin cam tag", "PitchSessionFiles/CU0022-2-000841-A100404/002Cam1CriticalFrame.png", "PitchSessionFiles/CU0022-2-000841-A100404/002Impact.jpg", "PitchSessionFiles/CU0022-2-000841-A100404/002front.png", "PitchSessionFiles/CU0022-2-000841-A100404/002side.png", "PitchSessionFiles/CU0022-2-000841-A100404/002top.png", "", "impact", "img right", "img left", "target", "", "I", "9", "17", "O", "15", "22", "1", "PS-01", "RS-01: +7", "0", "F", "22") | TZ:21600 |  GMT- 07/21/20 21:35:16
+Local: 07/21/20 16:35:16 | 3460-WriteOnePitchToLocalPitchTable - | CurrPitch_MovementInfo for Pitch [2] Cam-ONE-pixelsX/Y: 310, 78 / 309, 131 / 307, 189 | Cam-TWO-pixelsX/Y: 477, 56 / 489, 115 / 501, 181 / 508, 245 | TZ:21600 |  GMT- 07/21/20 21:35:16
+Local: 07/21/20 16:35:16 | DEBUG FOR PRACT MODE- MainLoop | PractMode Success-Miss-Total FRAME # - count/limit format:[Frame:(2)  Succ:0/1  Miss:0/2  Totl:0/2 | TZ:21600 |  GMT- 07/21/20 21:35:16
+Local: 07/21/20 16:35:16 | DEBUG FOR PRACT MODE- MainLoop | Marquee Content, MoveOnLiteral, TargetBox: Change - After 2nd pitch or success - G,17 / M,22 | TZ:21600 |  GMT- 07/21/20 21:35:16
+Local: 07/21/20 16:35:16 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [Change] | TZ:21600 |  GMT- 07/21/20 21:35:16
+Local: 07/21/20 16:35:16 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-07-21 16:35:16.312239] | TZ:21600 |  GMT- 07/21/20 21:35:16
+Local: 07/21/20 16:35:16 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-07-21 17:35:16.312239] | TZ:21600 |  GMT- 07/21/20 21:35:16
+Local: 07/21/20 16:35:16 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-07-21 16:35:16.312252] | TZ:21600 |  GMT- 07/21/20 21:35:16
+Local: 07/21/20 16:35:16 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 07/21/20 21:35:16
+Local: 07/21/20 16:35:16 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 07/21/20 21:35:16
+Local: 07/21/20 16:35:22 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed string: [~ 044. M 
+
+
+] | TZ:21600 |  GMT- 07/21/20 21:35:22
+Local: 07/21/20 16:35:22 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Parse this speed.txt file string: [~ 044. M 
+
+
+] | TZ:21600 |  GMT- 07/21/20 21:35:22
+Local: 07/21/20 16:35:22 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed (integer): [44] | TZ:21600 |  GMT- 07/21/20 21:35:22
+Local: 07/21/20 16:35:22 | 0030-RunStandardAndPracticeSession       - | Response from WaitForSpeedFile:  ReturnSpeedValue = [44]  SpeedAddon = [7] | TZ:21600 |  GMT- 07/21/20 21:35:22
+Local: 07/21/20 16:35:23 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [PLATE SP] | TZ:21600 |  GMT- 07/21/20 21:35:23
+Local: 07/21/20 16:35:24 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [+RELEASE] | TZ:21600 |  GMT- 07/21/20 21:35:24
+Local: 07/21/20 16:35:28 | 0030-RunStandardAndPracticeSession       - | Calling InpactResult: [/home/pi/ImpactLocator/ImpactLocator.out /home/pi/NetworkShare/Cam1BallLine.png /home/pi/NetworkShare/Cam2BallLine.png > /home/pi/NetworkShare/ImpactResult.txt] | TZ:21600 |  GMT- 07/21/20 21:35:28
+Local: 07/21/20 16:35:28 | 6521-XevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for X translation of Ozan % of net to Columns (A-Z) : | TZ:21600 |  GMT- 07/21/20 21:35:28
+Local: 07/21/20 16:35:28 | XevalNetLocPctCoordsV1 | intPctOfXcol: 12 | TZ:21600 |  GMT- 07/21/20 21:35:28
+Local: 07/21/20 16:35:28 | XevalNetLocPctCoordsV1 | gstrFinalImpactSMgridX: E | TZ:21600 |  GMT- 07/21/20 21:35:28
+Local: 07/21/20 16:35:28 | 6543-YevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for Y translation of Ozan % of net to Row (1-26) : | TZ:21600 |  GMT- 07/21/20 21:35:28
+Local: 07/21/20 16:35:28 | YevalNetLocPctCoordsV1 | intPctOfYrow: 60 | TZ:21600 |  GMT- 07/21/20 21:35:28
+Local: 07/21/20 16:35:28 | YevalNetLocPctCoordsV1 | gintFinalImpactSMgridY: 19 | TZ:21600 |  GMT- 07/21/20 21:35:28
+Local: 07/21/20 16:35:28 | DEBUG LINE 10-03-18 htc - x/y coordinate Pct Teaks | Translate Ozans Pct X/Y to Actual X/Y Values = 12 X-pct = E / 60 Y-pct = 19 | TZ:21600 |  GMT- 07/21/20 21:35:28
+Local: 07/21/20 16:35:28 | 0021-EvalSuccessMiss                   - | EvalSuccessMiss: [Baseball, 5, 19] | TZ:21600 |  GMT- 07/21/20 21:35:28
+Local: 07/21/20 16:35:28 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [- MISS -] | TZ:21600 |  GMT- 07/21/20 21:35:28
+Local: 07/21/20 16:35:28 | 0071-DisplayImpactLocation              - | Display Impact location: [5, 19] | TZ:21600 |  GMT- 07/21/20 21:35:28
+Local: 07/21/20 16:35:31 | DEBUG LINE 01-05-19 htc              | Preparing to call MOVEMENT Sub-Routine. | TZ:21600 |  GMT- 07/21/20 21:35:31
+Local: 07/21/20 16:35:31 | DEBUG LINE 01-05-19 htc              | Inside MOVEMENT Sub-Routine. BallCentersString1 (ONE) = [373,13
+374,56
+373,110
+372,168
+370,224
+] | TZ:21600 |  GMT- 07/21/20 21:35:31
+Local: 07/21/20 16:35:31 | DEBUG LINE 01-05-19 htc              | Inside MOVEMENT Sub-Routine. BallCentersString2 (TWO) = [458,17
+474,74
+489,146
+502,221
+508,274
+] | TZ:21600 |  GMT- 07/21/20 21:35:31
+Local: 07/21/20 16:35:31 | 6521-XevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for X translation of Ozan % of net to Columns (A-Z) : | TZ:21600 |  GMT- 07/21/20 21:35:31
+Local: 07/21/20 16:35:31 | XevalNetLocPctCoordsV1 | intPctOfXcol: 9 | TZ:21600 |  GMT- 07/21/20 21:35:31
+Local: 07/21/20 16:35:31 | XevalNetLocPctCoordsV1 | gstrFinalImpactSMgridX: C | TZ:21600 |  GMT- 07/21/20 21:35:31
+Local: 07/21/20 16:35:31 | 6543-YevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for Y translation of Ozan % of net to Row (1-26) : | TZ:21600 |  GMT- 07/21/20 21:35:31
+Local: 07/21/20 16:35:31 | YevalNetLocPctCoordsV1 | intPctOfYrow: 24 | TZ:21600 |  GMT- 07/21/20 21:35:31
+Local: 07/21/20 16:35:31 | YevalNetLocPctCoordsV1 | gintFinalImpactSMgridY: 10 | TZ:21600 |  GMT- 07/21/20 21:35:31
+Local: 07/21/20 16:35:31 | 5050-CalculateMovementVer1          - | START TIME- call THREE MOVEMENT .png creations WITH FOUR POINT SMOOTHING: [python /var/www/html/students/plotsingle.py ] | TZ:21600 |  GMT- 07/21/20 21:35:31
+Local: 07/21/20 16:35:32 | 5050-CalculateMovementVer1          - | First Graph Call COMMAND STRING: python /var/www/html/students/plotsingle.py -o "/home/pi/front.png" -p "3, 0,53|4,-12.5,28" -a "Front" -c "r" -t "Front View- Sess: 841  Name: PCA
+Pitch#: 3  Plate MPH: 44
+Pitch Call: MISS  Impact Coords: E, 19"] | TZ:21600 |  GMT- 07/21/20 21:35:32
+Local: 07/21/20 16:35:32 | 5050-CalculateMovementVer1          - | First Graph Call RESULT: 0] | TZ:21600 |  GMT- 07/21/20 21:35:32
+Local: 07/21/20 16:35:33 | 5050-CalculateMovementVer1          - | Second Graph Call COMMAND STRING: python /var/www/html/students/plotsingle.py -o "/home/pi/side.png" -p "3, 0,53|4,-12.5,28" -a "Side" -c "g" -t "Side View- Sess: 841  Name: PCA
+Pitch#: 3  Plate MPH: 44
+Pitch Call: MISS  Impact Coords: E, 19"] | TZ:21600 |  GMT- 07/21/20 21:35:33
+Local: 07/21/20 16:35:33 | 5050-CalculateMovementVer1          - | Second Graph Call RESULT: 0] | TZ:21600 |  GMT- 07/21/20 21:35:33
+Local: 07/21/20 16:35:33 | 5050-CalculateMovementVer1          - | Third Graph Call COMMAND STRING: python /var/www/html/students/plotsingle.py -o "/home/pi/top.png" -p "3, 0,53|4,-12.5,28" -a "Top" -c "b" -t "Top View- Sess: 841  Name: PCA
+Pitch#: 3  Plate MPH: 44
+Pitch Call: MISS  Impact Coords: E, 19"] | TZ:21600 |  GMT- 07/21/20 21:35:33
+Local: 07/21/20 16:35:33 | 5050-CalculateMovementVer1          - | Third Graph Call RESULT: 0] | TZ:21600 |  GMT- 07/21/20 21:35:33
+Local: 07/21/20 16:35:33 | 3010-CalculateMovementVer1          - | STOP TIME- call THREE MOVEMENT .png creations: [python /var/www/html/students/plotsingle.py -o "/home/pi/top.png" -p "3, 0,53|4,-12.5,28" -a "Top" -c "b" -t "Top View- Sess: 841  Name: PCA
+Pitch#: 3  Plate MPH: 44
+Pitch Call: MISS  Impact Coords: E, 19"] | TZ:21600 |  GMT- 07/21/20 21:35:33
+Local: 07/21/20 16:35:33 | DEBUG LINE 01-05-19 htc              | Movement Sub-routine Call Result: [None] | TZ:21600 |  GMT- 07/21/20 21:35:33
+Local: 07/21/20 16:35:33 | WriteOnePitchToLocalPitchTable | Machine ID at start of WriteOnePitchToLocalPitchTable CU0022-2 | TZ:21600 |  GMT- 07/21/20 21:35:33
+Local: 07/21/20 16:35:33 | 3460-WriteOnePitchToLocalPitchTable - | Valstring: ) Values ("CU0022-2", "A100404", "841", "3", "44", "51", "5", "E", "19", "MISS", "30", "Baseball", "2020-07-21 16:35:33.945641", "practice", "-Bullpen Session 1 - FB/CH", "PRACTICE", "None", "-*-", "-*-", "-*-", "-*-", "0", "unknown", "Change", "Change", "-*-", "Cam-ONE-pixelsX/Y: 373, 13 / 374, 56 / 373, 110 / 372, 168 / 370, 224 | Cam-TWO-pixelsX/Y: 458, 17 / 474, 74 / 489, 146 / 502, 221 / 508, 274", "01/01/1900", "-*-", "right cam tag", "left cam tag", "spin cam tag", "PitchSessionFiles/CU0022-2-000841-A100404/003Cam1CriticalFrame.png", "PitchSessionFiles/CU0022-2-000841-A100404/003Impact.jpg", "PitchSessionFiles/CU0022-2-000841-A100404/003front.png", "PitchSessionFiles/CU0022-2-000841-A100404/003side.png", "PitchSessionFiles/CU0022-2-000841-A100404/003top.png", "", "impact", "img right", "img left", "target", "", "G", "7", "17", "M", "13", "22", "2", "PS-01", "RS-01: +7", "0", "C", "10") | TZ:21600 |  GMT- 07/21/20 21:35:33
+Local: 07/21/20 16:35:33 | 3460-WriteOnePitchToLocalPitchTable - | CurrPitch_MovementInfo for Pitch [3] Cam-ONE-pixelsX/Y: 373, 13 / 374, 56 / 373, 110 / 372, 168 / 370, 224 | Cam-TWO-pixelsX/Y: 458, 17 / 474, 74 / 489, 146 / 502, 221 / 508, 274 | TZ:21600 |  GMT- 07/21/20 21:35:33
+Local: 07/21/20 16:35:33 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [Change] | TZ:21600 |  GMT- 07/21/20 21:35:33
+Local: 07/21/20 16:35:34 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-07-21 16:35:34.074740] | TZ:21600 |  GMT- 07/21/20 21:35:34
+Local: 07/21/20 16:35:34 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-07-21 17:35:34.074740] | TZ:21600 |  GMT- 07/21/20 21:35:34
+Local: 07/21/20 16:35:34 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-07-21 16:35:34.074755] | TZ:21600 |  GMT- 07/21/20 21:35:34
+Local: 07/21/20 16:35:34 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 07/21/20 21:35:34
+Local: 07/21/20 16:35:34 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 07/21/20 21:35:34
+Local: 07/21/20 16:35:39 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed string: [~ 045. M 
+
+
+] | TZ:21600 |  GMT- 07/21/20 21:35:39
+Local: 07/21/20 16:35:39 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Parse this speed.txt file string: [~ 045. M 
+
+
+] | TZ:21600 |  GMT- 07/21/20 21:35:39
+Local: 07/21/20 16:35:39 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed (integer): [45] | TZ:21600 |  GMT- 07/21/20 21:35:39
+Local: 07/21/20 16:35:39 | 0030-RunStandardAndPracticeSession       - | Response from WaitForSpeedFile:  ReturnSpeedValue = [45]  SpeedAddon = [7] | TZ:21600 |  GMT- 07/21/20 21:35:39
+Local: 07/21/20 16:35:39 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [PLATE SP] | TZ:21600 |  GMT- 07/21/20 21:35:39
+Local: 07/21/20 16:35:40 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [+RELEASE] | TZ:21600 |  GMT- 07/21/20 21:35:40
+Local: 07/21/20 16:35:45 | 0030-RunStandardAndPracticeSession       - | Calling InpactResult: [/home/pi/ImpactLocator/ImpactLocator.out /home/pi/NetworkShare/Cam1BallLine.png /home/pi/NetworkShare/Cam2BallLine.png > /home/pi/NetworkShare/ImpactResult.txt] | TZ:21600 |  GMT- 07/21/20 21:35:45
+Local: 07/21/20 16:35:45 | 6521-XevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for X translation of Ozan % of net to Columns (A-Z) : | TZ:21600 |  GMT- 07/21/20 21:35:45
+Local: 07/21/20 16:35:45 | XevalNetLocPctCoordsV1 | intPctOfXcol: 56 | TZ:21600 |  GMT- 07/21/20 21:35:45
+Local: 07/21/20 16:35:45 | XevalNetLocPctCoordsV1 | gstrFinalImpactSMgridX: P | TZ:21600 |  GMT- 07/21/20 21:35:45
+Local: 07/21/20 16:35:45 | 6543-YevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for Y translation of Ozan % of net to Row (1-26) : | TZ:21600 |  GMT- 07/21/20 21:35:45
+Local: 07/21/20 16:35:45 | YevalNetLocPctCoordsV1 | intPctOfYrow: 68 | TZ:21600 |  GMT- 07/21/20 21:35:45
+Local: 07/21/20 16:35:45 | YevalNetLocPctCoordsV1 | gintFinalImpactSMgridY: 21 | TZ:21600 |  GMT- 07/21/20 21:35:45
+Local: 07/21/20 16:35:45 | DEBUG LINE 10-03-18 htc - x/y coordinate Pct Teaks | Translate Ozans Pct X/Y to Actual X/Y Values = 56 X-pct = P / 68 Y-pct = 21 | TZ:21600 |  GMT- 07/21/20 21:35:45
+Local: 07/21/20 16:35:45 | 0021-EvalSuccessMiss                   - | EvalSuccessMiss: [Baseball, 16, 21] | TZ:21600 |  GMT- 07/21/20 21:35:45
+Local: 07/21/20 16:35:45 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [- MISS -] | TZ:21600 |  GMT- 07/21/20 21:35:45
+Local: 07/21/20 16:35:45 | 0071-DisplayImpactLocation              - | Display Impact location: [16, 21] | TZ:21600 |  GMT- 07/21/20 21:35:45
+Local: 07/21/20 16:35:48 | DEBUG LINE 01-05-19 htc              | Preparing to call MOVEMENT Sub-Routine. | TZ:21600 |  GMT- 07/21/20 21:35:48
+Local: 07/21/20 16:35:48 | DEBUG LINE 01-05-19 htc              | Inside MOVEMENT Sub-Routine. BallCentersString1 (ONE) = [270,39
+266,102
+264,168
+261,234
+] | TZ:21600 |  GMT- 07/21/20 21:35:48
+Local: 07/21/20 16:35:48 | DEBUG LINE 01-05-19 htc              | Inside MOVEMENT Sub-Routine. BallCentersString2 (TWO) = [348,49
+359,109
+369,172
+378,238
+] | TZ:21600 |  GMT- 07/21/20 21:35:48
+Local: 07/21/20 16:35:48 | 6521-XevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for X translation of Ozan % of net to Columns (A-Z) : | TZ:21600 |  GMT- 07/21/20 21:35:48
+Local: 07/21/20 16:35:48 | XevalNetLocPctCoordsV1 | intPctOfXcol: 55 | TZ:21600 |  GMT- 07/21/20 21:35:48
+Local: 07/21/20 16:35:48 | XevalNetLocPctCoordsV1 | gstrFinalImpactSMgridX: P | TZ:21600 |  GMT- 07/21/20 21:35:48
+Local: 07/21/20 16:35:48 | 6543-YevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for Y translation of Ozan % of net to Row (1-26) : | TZ:21600 |  GMT- 07/21/20 21:35:48
+Local: 07/21/20 16:35:48 | YevalNetLocPctCoordsV1 | intPctOfYrow: 39 | TZ:21600 |  GMT- 07/21/20 21:35:48
+Local: 07/21/20 16:35:48 | YevalNetLocPctCoordsV1 | gintFinalImpactSMgridY: 13 | TZ:21600 |  GMT- 07/21/20 21:35:48
+Local: 07/21/20 16:35:48 | 5050-CalculateMovementVer1          - | START TIME- call THREE MOVEMENT .png creations WITH FOUR POINT SMOOTHING: [python /var/www/html/students/plotsingle.py ] | TZ:21600 |  GMT- 07/21/20 21:35:48
+Local: 07/21/20 16:35:49 | 5050-CalculateMovementVer1          - | First Graph Call COMMAND STRING: python /var/www/html/students/plotsingle.py -o "/home/pi/front.png" -p "21, 0,44|22,-12.5,23" -a "Front" -c "r" -t "Front View- Sess: 841  Name: PCA
+Pitch#: 4  Plate MPH: 45
+Pitch Call: MISS  Impact Coords: P, 21"] | TZ:21600 |  GMT- 07/21/20 21:35:49
+Local: 07/21/20 16:35:49 | 5050-CalculateMovementVer1          - | First Graph Call RESULT: 0] | TZ:21600 |  GMT- 07/21/20 21:35:49
+Local: 07/21/20 16:35:49 | 5050-CalculateMovementVer1          - | Second Graph Call COMMAND STRING: python /var/www/html/students/plotsingle.py -o "/home/pi/side.png" -p "21, 0,44|22,-12.5,23" -a "Side" -c "g" -t "Side View- Sess: 841  Name: PCA
+Pitch#: 4  Plate MPH: 45
+Pitch Call: MISS  Impact Coords: P, 21"] | TZ:21600 |  GMT- 07/21/20 21:35:49
+Local: 07/21/20 16:35:49 | 5050-CalculateMovementVer1          - | Second Graph Call RESULT: 0] | TZ:21600 |  GMT- 07/21/20 21:35:49
+Local: 07/21/20 16:35:50 | 5050-CalculateMovementVer1          - | Third Graph Call COMMAND STRING: python /var/www/html/students/plotsingle.py -o "/home/pi/top.png" -p "21, 0,44|22,-12.5,23" -a "Top" -c "b" -t "Top View- Sess: 841  Name: PCA
+Pitch#: 4  Plate MPH: 45
+Pitch Call: MISS  Impact Coords: P, 21"] | TZ:21600 |  GMT- 07/21/20 21:35:50
+Local: 07/21/20 16:35:50 | 5050-CalculateMovementVer1          - | Third Graph Call RESULT: 0] | TZ:21600 |  GMT- 07/21/20 21:35:50
+Local: 07/21/20 16:35:50 | 3010-CalculateMovementVer1          - | STOP TIME- call THREE MOVEMENT .png creations: [python /var/www/html/students/plotsingle.py -o "/home/pi/top.png" -p "21, 0,44|22,-12.5,23" -a "Top" -c "b" -t "Top View- Sess: 841  Name: PCA
+Pitch#: 4  Plate MPH: 45
+Pitch Call: MISS  Impact Coords: P, 21"] | TZ:21600 |  GMT- 07/21/20 21:35:50
+Local: 07/21/20 16:35:50 | DEBUG LINE 01-05-19 htc              | Movement Sub-routine Call Result: [None] | TZ:21600 |  GMT- 07/21/20 21:35:50
+Local: 07/21/20 16:35:50 | WriteOnePitchToLocalPitchTable | Machine ID at start of WriteOnePitchToLocalPitchTable CU0022-2 | TZ:21600 |  GMT- 07/21/20 21:35:50
+Local: 07/21/20 16:35:50 | 3460-WriteOnePitchToLocalPitchTable - | Valstring: ) Values ("CU0022-2", "A100404", "841", "4", "45", "52", "16", "P", "21", "MISS", "30", "Baseball", "2020-07-21 16:35:50.739050", "practice", "-Bullpen Session 1 - FB/CH", "PRACTICE", "None", "-*-", "-*-", "-*-", "-*-", "0", "unknown", "Change", "Change", "-*-", "Cam-ONE-pixelsX/Y: 270, 39 / 266, 102 / 264, 168 / 261, 234 | Cam-TWO-pixelsX/Y: 348, 49 / 359, 109 / 369, 172 / 378, 238", "01/01/1900", "-*-", "right cam tag", "left cam tag", "spin cam tag", "PitchSessionFiles/CU0022-2-000841-A100404/004Cam1CriticalFrame.png", "PitchSessionFiles/CU0022-2-000841-A100404/004Impact.jpg", "PitchSessionFiles/CU0022-2-000841-A100404/004front.png", "PitchSessionFiles/CU0022-2-000841-A100404/004side.png", "PitchSessionFiles/CU0022-2-000841-A100404/004top.png", "", "impact", "img right", "img left", "target", "", "G", "7", "17", "M", "13", "22", "2", "PS-01", "RS-01: +7", "0", "P", "13") | TZ:21600 |  GMT- 07/21/20 21:35:50
+Local: 07/21/20 16:35:50 | 3460-WriteOnePitchToLocalPitchTable - | CurrPitch_MovementInfo for Pitch [4] Cam-ONE-pixelsX/Y: 270, 39 / 266, 102 / 264, 168 / 261, 234 | Cam-TWO-pixelsX/Y: 348, 49 / 359, 109 / 369, 172 / 378, 238 | TZ:21600 |  GMT- 07/21/20 21:35:50
+Local: 07/21/20 16:35:50 | 0030-RunStandardAndPracticeSession       - | PRACTICE MODE Repeat Count > 1, loop  [1 of  2] | TZ:21600 |  GMT- 07/21/20 21:35:50
+Local: 07/21/20 16:35:50 | DEBUG FOR PRACT MODE- MainLoop | PractMode Success-Miss-Total FRAME # - count/limit format:[Frame:(1)  Succ:0/1  Miss:0/2  Totl:0/2 | TZ:21600 |  GMT- 07/21/20 21:35:50
+Local: 07/21/20 16:35:50 | DEBUG FOR PRACT MODE- MainLoop | Marquee Content, MoveOnLiteral, TargetBox: Fastball - After 2nd pitch or success - I,17 / O,22 | TZ:21600 |  GMT- 07/21/20 21:35:50
+Local: 07/21/20 16:35:50 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [Fastball] | TZ:21600 |  GMT- 07/21/20 21:35:50
+Local: 07/21/20 16:35:50 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-07-21 16:35:50.878421] | TZ:21600 |  GMT- 07/21/20 21:35:50
+Local: 07/21/20 16:35:50 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-07-21 17:35:50.878421] | TZ:21600 |  GMT- 07/21/20 21:35:50
+Local: 07/21/20 16:35:50 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-07-21 16:35:50.878440] | TZ:21600 |  GMT- 07/21/20 21:35:50
+Local: 07/21/20 16:35:50 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 07/21/20 21:35:50
+Local: 07/21/20 16:35:50 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 07/21/20 21:35:50
+Local: 07/21/20 16:36:07 | 2033-WaitForSpeedFile          - | stop.txt #2 file found, ending SmMain.py: [/var/www/html/students/stop.txt] | TZ:21600 |  GMT- 07/21/20 21:36:07
+Local: 07/21/20 16:36:07 | 0030-RunStandardAndPracticeSession       - | Response from WaitForSpeedFile:  ReturnSpeedValue = [4]  SpeedAddon = [7] | TZ:21600 |  GMT- 07/21/20 21:36:07
+Local: 07/21/20 16:36:07 | 0030-RunStandardAndPracticeSession       - | SpeedReturnValue = 4, stop.txt file found, ending program normally- reason: [TimeOut] File found at: /var/www/html/students/stop.txt | TZ:21600 |  GMT- 07/21/20 21:36:07
+Local: 07/21/20 16:36:07 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [TimeOut] | TZ:21600 |  GMT- 07/21/20 21:36:07
+Local: 07/21/20 16:36:12 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [CU0022-2] | TZ:21600 |  GMT- 07/21/20 21:36:12
+Local: 07/21/20 16:36:12 | 0001-Main -                   - | Session Number 841 Ended with Status: TimeOut | TZ:21600 |  GMT- 07/21/20 21:36:12

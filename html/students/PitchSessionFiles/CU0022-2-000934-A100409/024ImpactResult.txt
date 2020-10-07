@@ -1,0 +1,4 @@
+Pixel: 0,99
+Ratio: 0.00,0.21
+Feet: 0,13
+RowCol: A,6

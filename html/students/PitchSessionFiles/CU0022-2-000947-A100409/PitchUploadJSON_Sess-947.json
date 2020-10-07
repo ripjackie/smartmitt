@@ -1,0 +1,101 @@
+{
+"update":
+[
+{
+"type":"string",
+"key":"SessionNumber",
+"value":"CU0022-2-947"
+} , {
+"type":"string",
+"key":"AccountID",
+"value":"A100409"
+}
+],
+"rows":
+[
+{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-947",
+"AccountID":"A100409",
+"Distance":"38",
+"Target Type":"Game Mode",
+"PitchNumber":1,
+"X":"J",
+"Y":12,
+"Date":"2020-09-02T15:16:11",
+"Time":"2020-09-02T15:16:11",
+"MPH":"37.0",
+"MPH Plate Speed":"37.0",
+"MPH Release":"42.0",
+"Call":"SUCCESS",
+"Call":"SUCCESS",
+"X":"J",
+"Y":12,
+"EI Row ID":"CU0022-2-947-1",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-947",
+"AccountID":"A100409",
+"Distance":"38",
+"Target Type":"Game Mode",
+"PitchNumber":2,
+"X":"T",
+"Y":7,
+"Date":"2020-09-02T15:16:34",
+"Time":"2020-09-02T15:16:34",
+"MPH":"36.0",
+"MPH Plate Speed":"36.0",
+"MPH Release":"41.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"T",
+"Y":7,
+"EI Row ID":"CU0022-2-947-2",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-947",
+"AccountID":"A100409",
+"Distance":"38",
+"Target Type":"Game Mode",
+"PitchNumber":3,
+"X":"T",
+"Y":9,
+"Date":"2020-09-02T15:17:00",
+"Time":"2020-09-02T15:17:00",
+"MPH":"36.0",
+"MPH Plate Speed":"36.0",
+"MPH Release":"41.0",
+"Call":"SUCCESS",
+"Call":"SUCCESS",
+"X":"T",
+"Y":9,
+"EI Row ID":"CU0022-2-947-3",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-947",
+"AccountID":"A100409",
+"Distance":"38",
+"Target Type":"Game Mode",
+"PitchNumber":4,
+"X":"T",
+"Y":8,
+"Date":"2020-09-02T15:18:37",
+"Time":"2020-09-02T15:18:37",
+"MPH":"30.0",
+"MPH Plate Speed":"30.0",
+"MPH Release":"35.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"T",
+"Y":8,
+"EI Row ID":"CU0022-2-947-4",
+"EI Row Count":"1"
+}
+]
+}

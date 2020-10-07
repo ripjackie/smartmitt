@@ -1,0 +1,38 @@
+{
+"update":
+[
+{
+"type":"string",
+"key":"SessionNumber",
+"value":"CU0022-2-923"
+} , {
+"type":"string",
+"key":"AccountID",
+"value":"A100096"
+}
+],
+"rows":
+[
+{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-923",
+"AccountID":"A100096",
+"Distance":"43",
+"Target Type":"Game Mode",
+"PitchNumber":1,
+"X":"J",
+"Y":22,
+"Date":"2020-08-24T18:11:19",
+"Time":"2020-08-24T18:11:19",
+"MPH":"47.0",
+"MPH Plate Speed":"47.0",
+"MPH Release":"50.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"J",
+"Y":22,
+"EI Row ID":"CU0022-2-923-1",
+"EI Row Count":"1"
+}
+]
+}

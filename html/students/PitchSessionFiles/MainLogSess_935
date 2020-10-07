@@ -1,0 +1,15 @@
+Local Time: Wed, 07 Oct 2020 11:57:29 |** VER-3.00-GLOBAL CODE **| MMainLogFile Initialized - NEW file. | TZ:21600 |  GMT- Wed, 07 Oct 2020 16:57:29
+Play Sound Coordinates: K, 10 to P, 16
+Local Time: 11:57:29 | Check Point 1 | 
+Local Time: 11:57:29 | Check Point 2 | 
+Local Time: 11:57:29 | Check Point 3 | 
+Local Time: 11:57:29 | Check Point 4 | 
+Local Time: 11:57:29 | Check Point 5 | 
+Local Time: 11:57:29 | Check Point 6 | 
+Local Time: 11:57:29 | Check Point 7 | 
+Local: 10/07/20 11:57:29 | 0001-Main                    - | START OF MAIN in home folder: /var/www/html/students | TZ:21600 |  GMT- 10/07/20 16:57:29
+Local: 10/07/20 11:57:29 | 0001-Main                    - | Python Script Runtime Arguments: SmMain.py - ['SmMain.py', '901'] | TZ:21600 |  GMT- 10/07/20 16:57:29
+Local Time: 11:57:29 | Check Point 8 | 
+Local: 10/07/20 11:57:29 | 0001-Main                    - | ('Linux', 'NUC8i5BEH', '5.4.0-48-generic', '#52~18.04.1-Ubuntu SMP Thu Sep 10 12:50:22 UTC 2020', 'x86_64', 'x86_64') | TZ:21600 |  GMT- 10/07/20 16:57:29
+Local: 10/07/20 11:57:29 | 0001-Main                    - | () | TZ:21600 |  GMT- 10/07/20 16:57:29
+Local: 10/07/20 11:57:29 | 0001-Main                    - | uname_result(system='Linux', node='NUC8i5BEH', release='5.4.0-48-generic', version='#52~18.04.1-Ubuntu SMP Thu Sep 10 12:50:22 UTC 2020', machine='x86_64', processor='x86_64') | TZ:21600 |  GMT- 10/07/20 16:57:29

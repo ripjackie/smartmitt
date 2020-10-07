@@ -1,0 +1,101 @@
+{
+"update":
+[
+{
+"type":"string",
+"key":"SessionNumber",
+"value":"CU0022-2-926"
+} , {
+"type":"string",
+"key":"AccountID",
+"value":"A100096"
+}
+],
+"rows":
+[
+{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-926",
+"AccountID":"A100096",
+"Distance":"43",
+"Target Type":"Select Development",
+"PitchNumber":1,
+"X":"Q",
+"Y":19,
+"Date":"2020-08-24T18:49:17",
+"Time":"2020-08-24T18:49:17",
+"MPH":"34.0",
+"MPH Plate Speed":"34.0",
+"MPH Release":"37.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"Q",
+"Y":19,
+"EI Row ID":"CU0022-2-926-1",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-926",
+"AccountID":"A100096",
+"Distance":"43",
+"Target Type":"Select Development",
+"PitchNumber":2,
+"X":"Y",
+"Y":11,
+"Date":"2020-08-24T18:49:31",
+"Time":"2020-08-24T18:49:31",
+"MPH":"36.0",
+"MPH Plate Speed":"36.0",
+"MPH Release":"39.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"Y",
+"Y":11,
+"EI Row ID":"CU0022-2-926-2",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-926",
+"AccountID":"A100096",
+"Distance":"43",
+"Target Type":"Select Development",
+"PitchNumber":3,
+"X":"J",
+"Y":8,
+"Date":"2020-08-24T18:49:43",
+"Time":"2020-08-24T18:49:43",
+"MPH":"33.0",
+"MPH Plate Speed":"33.0",
+"MPH Release":"36.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"J",
+"Y":8,
+"EI Row ID":"CU0022-2-926-3",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-926",
+"AccountID":"A100096",
+"Distance":"43",
+"Target Type":"Select Development",
+"PitchNumber":4,
+"X":"L",
+"Y":4,
+"Date":"2020-08-24T18:49:58",
+"Time":"2020-08-24T18:49:58",
+"MPH":"32.0",
+"MPH Plate Speed":"32.0",
+"MPH Release":"35.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"L",
+"Y":4,
+"EI Row ID":"CU0022-2-926-4",
+"EI Row Count":"1"
+}
+]
+}

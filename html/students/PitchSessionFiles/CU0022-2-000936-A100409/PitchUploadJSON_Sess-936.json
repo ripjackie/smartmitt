@@ -1,0 +1,122 @@
+{
+"update":
+[
+{
+"type":"string",
+"key":"SessionNumber",
+"value":"CU0022-2-936"
+} , {
+"type":"string",
+"key":"AccountID",
+"value":"A100409"
+}
+],
+"rows":
+[
+{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-936",
+"AccountID":"A100409",
+"Distance":"38",
+"Target Type":"Early Development",
+"PitchNumber":1,
+"X":"R",
+"Y":8,
+"Date":"2020-08-31T08:38:33",
+"Time":"2020-08-31T08:38:33",
+"MPH":"35.0",
+"MPH Plate Speed":"35.0",
+"MPH Release":"40.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"R",
+"Y":8,
+"EI Row ID":"CU0022-2-936-1",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-936",
+"AccountID":"A100409",
+"Distance":"38",
+"Target Type":"Early Development",
+"PitchNumber":2,
+"X":"M",
+"Y":17,
+"Date":"2020-08-31T08:38:46",
+"Time":"2020-08-31T08:38:46",
+"MPH":"38.0",
+"MPH Plate Speed":"38.0",
+"MPH Release":"43.0",
+"Call":"SUCCESS",
+"Call":"SUCCESS",
+"X":"M",
+"Y":17,
+"EI Row ID":"CU0022-2-936-2",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-936",
+"AccountID":"A100409",
+"Distance":"38",
+"Target Type":"Early Development",
+"PitchNumber":3,
+"X":"G",
+"Y":14,
+"Date":"2020-08-31T08:39:00",
+"Time":"2020-08-31T08:39:00",
+"MPH":"34.0",
+"MPH Plate Speed":"34.0",
+"MPH Release":"39.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"G",
+"Y":14,
+"EI Row ID":"CU0022-2-936-3",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-936",
+"AccountID":"A100409",
+"Distance":"38",
+"Target Type":"Early Development",
+"PitchNumber":4,
+"X":"H",
+"Y":20,
+"Date":"2020-08-31T08:39:12",
+"Time":"2020-08-31T08:39:12",
+"MPH":"34.0",
+"MPH Plate Speed":"34.0",
+"MPH Release":"39.0",
+"Call":"SUCCESS",
+"Call":"SUCCESS",
+"X":"H",
+"Y":20,
+"EI Row ID":"CU0022-2-936-4",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-936",
+"AccountID":"A100409",
+"Distance":"38",
+"Target Type":"Early Development",
+"PitchNumber":5,
+"X":"R",
+"Y":22,
+"Date":"2020-08-31T08:39:24",
+"Time":"2020-08-31T08:39:24",
+"MPH":"37.0",
+"MPH Plate Speed":"37.0",
+"MPH Release":"42.0",
+"Call":"SUCCESS",
+"Call":"SUCCESS",
+"X":"R",
+"Y":22,
+"EI Row ID":"CU0022-2-936-5",
+"EI Row Count":"1"
+}
+]
+}

@@ -1,0 +1,59 @@
+{
+"update":
+[
+{
+"type":"string",
+"key":"SessionNumber",
+"value":"CU0022-2-907"
+} , {
+"type":"string",
+"key":"AccountID",
+"value":"A100409"
+}
+],
+"rows":
+[
+{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-907",
+"AccountID":"A100409",
+"Distance":"54",
+"Target Type":"Early Development",
+"PitchNumber":1,
+"X":"T",
+"Y":14,
+"Date":"2020-08-24T15:56:25",
+"Time":"2020-08-24T15:56:25",
+"MPH":"49.0",
+"MPH Plate Speed":"49.0",
+"MPH Release":"54.0",
+"Call":"SUCCESS",
+"Call":"SUCCESS",
+"X":"T",
+"Y":14,
+"EI Row ID":"CU0022-2-907-1",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-907",
+"AccountID":"A100409",
+"Distance":"54",
+"Target Type":"Early Development",
+"PitchNumber":2,
+"X":"V",
+"Y":10,
+"Date":"2020-08-24T15:56:45",
+"Time":"2020-08-24T15:56:45",
+"MPH":"51.0",
+"MPH Plate Speed":"51.0",
+"MPH Release":"56.0",
+"Call":"SUCCESS",
+"Call":"SUCCESS",
+"X":"V",
+"Y":10,
+"EI Row ID":"CU0022-2-907-2",
+"EI Row Count":"1"
+}
+]
+}

@@ -1,0 +1,4 @@
+Pixel: 0,0
+Ratio: 0.00,0.00
+Feet: 0,0
+RowCol: A,1

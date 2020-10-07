@@ -1,0 +1,122 @@
+{
+"update":
+[
+{
+"type":"string",
+"key":"SessionNumber",
+"value":"CU0022-2-928"
+} , {
+"type":"string",
+"key":"AccountID",
+"value":"A100096"
+}
+],
+"rows":
+[
+{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-928",
+"AccountID":"A100096",
+"Distance":"43",
+"Target Type":"Game Mode",
+"PitchNumber":1,
+"X":"Y",
+"Y":15,
+"Date":"2020-08-24T18:53:49",
+"Time":"2020-08-24T18:53:49",
+"MPH":"38.0",
+"MPH Plate Speed":"38.0",
+"MPH Release":"41.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"Y",
+"Y":15,
+"EI Row ID":"CU0022-2-928-1",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-928",
+"AccountID":"A100096",
+"Distance":"43",
+"Target Type":"Game Mode",
+"PitchNumber":2,
+"X":"N",
+"Y":9,
+"Date":"2020-08-24T18:53:59",
+"Time":"2020-08-24T18:53:59",
+"MPH":"34.0",
+"MPH Plate Speed":"34.0",
+"MPH Release":"37.0",
+"Call":"SUCCESS",
+"Call":"SUCCESS",
+"X":"N",
+"Y":9,
+"EI Row ID":"CU0022-2-928-2",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-928",
+"AccountID":"A100096",
+"Distance":"43",
+"Target Type":"Game Mode",
+"PitchNumber":3,
+"X":"T",
+"Y":14,
+"Date":"2020-08-24T18:54:23",
+"Time":"2020-08-24T18:54:23",
+"MPH":"29.0",
+"MPH Plate Speed":"29.0",
+"MPH Release":"32.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"T",
+"Y":14,
+"EI Row ID":"CU0022-2-928-3",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-928",
+"AccountID":"A100096",
+"Distance":"43",
+"Target Type":"Game Mode",
+"PitchNumber":4,
+"X":"N",
+"Y":22,
+"Date":"2020-08-24T18:56:48",
+"Time":"2020-08-24T18:56:48",
+"MPH":"28.0",
+"MPH Plate Speed":"28.0",
+"MPH Release":"31.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"N",
+"Y":22,
+"EI Row ID":"CU0022-2-928-4",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"CU0022-2",
+"SessionNumber":"CU0022-2-928",
+"AccountID":"A100096",
+"Distance":"43",
+"Target Type":"Game Mode",
+"PitchNumber":5,
+"X":"T",
+"Y":8,
+"Date":"2020-08-24T18:57:45",
+"Time":"2020-08-24T18:57:45",
+"MPH":"37.0",
+"MPH Plate Speed":"37.0",
+"MPH Release":"40.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"T",
+"Y":8,
+"EI Row ID":"CU0022-2-928-5",
+"EI Row Count":"1"
+}
+]
+}

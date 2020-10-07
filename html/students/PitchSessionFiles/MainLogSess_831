@@ -1,0 +1,43 @@
+Local Time: Wed, 22 Apr 2020 12:34:20 |** VER-3.00-GLOBAL CODE **| MMainLogFile Initialized - NEW file. | TZ:21600 |  GMT- Wed, 22 Apr 2020 17:34:20
+Play Sound Coordinates: K, 10 to P, 16
+Local Time: 12:34:20 | Check Point 1 | 
+Local Time: 12:34:20 | Check Point 2 | 
+Local Time: 12:34:20 | Check Point 3 | 
+Local Time: 12:34:20 | Check Point 4 | 
+Local Time: 12:34:20 | Check Point 5 | 
+Local Time: 12:34:20 | Check Point 6 | 
+Local Time: 12:34:20 | Check Point 7 | 
+Local: 04/22/20 12:34:20 | 0001-Main                    - | START OF MAIN in home folder: /var/www/html/students | TZ:21600 |  GMT- 04/22/20 17:34:20
+Local: 04/22/20 12:34:20 | 0001-Main                    - | Python Script Runtime Arguments: SmMain.py - ['SmMain.py', '832'] | TZ:21600 |  GMT- 04/22/20 17:34:20
+Local Time: 12:34:20 | Check Point 8 | 
+Local: 04/22/20 12:34:20 | 0001-Main                    - | ('Linux', 'SM190031', '4.9.0-4-amd64', '#1 SMP Debian 4.9.65-3+deb9u1 (2017-12-23)', 'x86_64', '') | TZ:21600 |  GMT- 04/22/20 17:34:20
+Local: 04/22/20 12:34:20 | 0001-Main                    - | () | TZ:21600 |  GMT- 04/22/20 17:34:20
+Local: 04/22/20 12:34:20 | 0001-Main                    - | uname_result(system='Linux', node='SM190031', release='4.9.0-4-amd64', version='#1 SMP Debian 4.9.65-3+deb9u1 (2017-12-23)', machine='x86_64', processor='') | TZ:21600 |  GMT- 04/22/20 17:34:20
+Local: 04/22/20 12:34:20 | 0001-Main -                   - | Machine ID (UnitSerialNumber) from local smconfig table: SM0021-1 | TZ:21600 |  GMT- 04/22/20 17:34:20
+Local: 04/22/20 12:34:20 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [SM0021-1] | TZ:21600 |  GMT- 04/22/20 17:34:20
+Local: 04/22/20 12:34:20 | main | Machine ID after Marquee SM0021-1 | TZ:21600 |  GMT- 04/22/20 17:34:20
+Local Time: 12:34:20 | Check Point 9 | 
+Local Time: 12:34:20 | Check Point 10 | 
+Local: 04/22/20 12:34:20 |    0001-Main -                   - | Session Number PASSED TO PROGRAM: 832 | TZ:21600 |  GMT- 04/22/20 17:34:20
+Local: 04/22/20 12:34:20 |    0001-Main -                   - | Session Number READ / id Returned: 832 / 730 | TZ:21600 |  GMT- 04/22/20 17:34:20
+Local: 04/22/20 12:34:20 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [VER-3.00] | TZ:21600 |  GMT- 04/22/20 17:34:20
+Local: 04/22/20 12:34:21 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [SM0021-1] | TZ:21600 |  GMT- 04/22/20 17:34:21
+Local: 04/22/20 12:34:22 | main | Session number832 | TZ:21600 |  GMT- 04/22/20 17:34:22
+Local: 04/22/20 12:34:22 | main | {'type': 'standard', 'showReleaseSpeed': True, 'status': 'Open', 'machineId': 'SM990005', 'showResults': False, 'showPlateSpeed': True} | TZ:21600 |  GMT- 04/22/20 17:34:22
+Local: 04/22/20 12:34:22 | main | {'type': 'standard', 'showReleaseSpeed': True, 'status': 'Open', 'machineId': 'SM990005', 'showResults': False, 'showPlateSpeed': True} | TZ:21600 |  GMT- 04/22/20 17:34:22
+Local: 04/22/20 12:34:22 | 0030-RunStandardAndPracticeSession       - | run STANDARD Session Mode with session number: [832] | TZ:21600 |  GMT- 04/22/20 17:34:22
+Local: 04/22/20 12:34:22 | 0030-RunStandardAndPracticeSession       - | Try to run- sudo mkdir  on: [/var/www/html/students/PitchSessionFiles/SM0021-1-000832-A100096] | TZ:21600 |  GMT- 04/22/20 17:34:22
+Local: 04/22/20 12:34:22 | 0030-RunStandardAndPracticeSession       - | Return value from OS on sudo mkdir command: [0] | TZ:21600 |  GMT- 04/22/20 17:34:22
+Local: 04/22/20 12:34:22 | 0030-RunStandardAndPracticeSession       - | Try to run- sudo chmod 777 on: [/var/www/html/students/PitchSessionFiles/SM0021-1-000832-A100096] | TZ:21600 |  GMT- 04/22/20 17:34:22
+Local: 04/22/20 12:34:22 | 0030-RunStandardAndPracticeSession       - | Return value from OS on sudo chmod 777 command: [0] | TZ:21600 |  GMT- 04/22/20 17:34:22
+Local: 04/22/20 12:34:22 | 0030-RunStandardAndPracticeSession       - | Try to run- sudo chown pi on: [/var/www/html/students/PitchSessionFiles/SM0021-1-000832-A100096] | TZ:21600 |  GMT- 04/22/20 17:34:22
+Local: 04/22/20 12:34:22 | 0030-RunStandardAndPracticeSession       - | Return value from OS on sudo chOWN command: [0] | TZ:21600 |  GMT- 04/22/20 17:34:22
+Local: 04/22/20 12:34:22 | 0030-RunStandardAndPracticeSession       - | Try to run- sudo chgrp pi on: [/var/www/html/students/PitchSessionFiles/SM0021-1-000832-A100096] | TZ:21600 |  GMT- 04/22/20 17:34:22
+Local: 04/22/20 12:34:22 | 0030-RunStandardAndPracticeSession       - | Return value from OS on sudo chGRP command: [0] | TZ:21600 |  GMT- 04/22/20 17:34:22
+Local: 04/22/20 12:34:22 | 0030-RunStandardAndPracticeSession       - | Starting while loop for KeepProcessingPitches | TZ:21600 |  GMT- 04/22/20 17:34:22
+Local: 04/22/20 12:34:22 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [Show Me] | TZ:21600 |  GMT- 04/22/20 17:34:22
+Local: 04/22/20 12:34:23 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-04-22 12:34:23.029435] | TZ:21600 |  GMT- 04/22/20 17:34:23
+Local: 04/22/20 12:34:23 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-04-22 13:34:23.029435] | TZ:21600 |  GMT- 04/22/20 17:34:23
+Local: 04/22/20 12:34:23 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-04-22 12:34:23.029450] | TZ:21600 |  GMT- 04/22/20 17:34:23
+Local: 04/22/20 12:34:23 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 04/22/20 17:34:23
+Local: 04/22/20 12:34:23 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 04/22/20 17:34:23

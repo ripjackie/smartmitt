@@ -1,0 +1,207 @@
+Local Time: Mon, 24 Aug 2020 17:37:35 |** VER-3.00-GLOBAL CODE **| MMainLogFile Initialized - NEW file. | TZ:21600 |  GMT- Mon, 24 Aug 2020 22:37:35
+Play Sound Coordinates: K, 10 to P, 16
+Local Time: 17:37:35 | Check Point 1 | 
+Local Time: 17:37:35 | Check Point 2 | 
+Local Time: 17:37:35 | Check Point 3 | 
+Local Time: 17:37:35 | Check Point 4 | 
+Local Time: 17:37:35 | Check Point 5 | 
+Local Time: 17:37:35 | Check Point 6 | 
+Local Time: 17:37:35 | Check Point 7 | 
+Local: 08/24/20 17:37:35 | 0001-Main                    - | START OF MAIN in home folder: /var/www/html/students | TZ:21600 |  GMT- 08/24/20 22:37:35
+Local: 08/24/20 17:37:35 | 0001-Main                    - | Python Script Runtime Arguments: SmMain.py - ['SmMain.py', '915'] | TZ:21600 |  GMT- 08/24/20 22:37:35
+Local Time: 17:37:35 | Check Point 8 | 
+Local: 08/24/20 17:37:35 | 0001-Main                    - | ('Linux', 'SM190031', '4.9.0-4-amd64', '#1 SMP Debian 4.9.65-3+deb9u1 (2017-12-23)', 'x86_64', '') | TZ:21600 |  GMT- 08/24/20 22:37:35
+Local: 08/24/20 17:37:35 | 0001-Main                    - | () | TZ:21600 |  GMT- 08/24/20 22:37:35
+Local: 08/24/20 17:37:35 | 0001-Main                    - | uname_result(system='Linux', node='SM190031', release='4.9.0-4-amd64', version='#1 SMP Debian 4.9.65-3+deb9u1 (2017-12-23)', machine='x86_64', processor='') | TZ:21600 |  GMT- 08/24/20 22:37:35
+Local: 08/24/20 17:37:35 | 0001-Main -                   - | Machine ID (UnitSerialNumber) from local smconfig table: CU0022-2 | TZ:21600 |  GMT- 08/24/20 22:37:35
+Local: 08/24/20 17:37:35 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [CU0022-2] | TZ:21600 |  GMT- 08/24/20 22:37:35
+Local: 08/24/20 17:37:35 | main | Machine ID after Marquee CU0022-2 | TZ:21600 |  GMT- 08/24/20 22:37:35
+Local Time: 17:37:35 | Check Point 9 | 
+Local Time: 17:37:35 | Check Point 10 | 
+Local: 08/24/20 17:37:35 |    0001-Main -                   - | Session Number PASSED TO PROGRAM: 915 | TZ:21600 |  GMT- 08/24/20 22:37:35
+Local: 08/24/20 17:37:35 |    0001-Main -                   - | Session Number READ / id Returned: 915 / 813 | TZ:21600 |  GMT- 08/24/20 22:37:35
+Local: 08/24/20 17:37:35 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [VER-3.00] | TZ:21600 |  GMT- 08/24/20 22:37:35
+Local: 08/24/20 17:37:36 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [CU0022-2] | TZ:21600 |  GMT- 08/24/20 22:37:36
+Local: 08/24/20 17:37:37 | main | Session number915 | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | main | {'showPlateSpeed': False, 'machineId': 'SM990005', 'type': 'standard', 'showResults': True, 'status': 'Open', 'showReleaseSpeed': True} | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | main | {'showPlateSpeed': False, 'machineId': 'SM990005', 'type': 'standard', 'showResults': True, 'status': 'Open', 'showReleaseSpeed': True} | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | 0030-RunStandardAndPracticeSession       - | run STANDARD Session Mode with session number: [915] | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | 0030-RunStandardAndPracticeSession       - | Try to run- sudo mkdir  on: [/var/www/html/students/PitchSessionFiles/CU0022-2-000915-A100096] | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | 0030-RunStandardAndPracticeSession       - | Return value from OS on sudo mkdir command: [0] | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | 0030-RunStandardAndPracticeSession       - | Try to run- sudo chmod 777 on: [/var/www/html/students/PitchSessionFiles/CU0022-2-000915-A100096] | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | 0030-RunStandardAndPracticeSession       - | Return value from OS on sudo chmod 777 command: [0] | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | 0030-RunStandardAndPracticeSession       - | Try to run- sudo chown pi on: [/var/www/html/students/PitchSessionFiles/CU0022-2-000915-A100096] | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | 0030-RunStandardAndPracticeSession       - | Return value from OS on sudo chOWN command: [0] | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | 0030-RunStandardAndPracticeSession       - | Try to run- sudo chgrp pi on: [/var/www/html/students/PitchSessionFiles/CU0022-2-000915-A100096] | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | 0030-RunStandardAndPracticeSession       - | Return value from OS on sudo chGRP command: [0] | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | 0030-RunStandardAndPracticeSession       - | Starting while loop for KeepProcessingPitches | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [Grd Slam] | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-08-24 17:37:37.971974] | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-08-24 18:37:37.971974] | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-08-24 17:37:37.971989] | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:37:37 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 08/24/20 22:37:37
+Local: 08/24/20 17:38:03 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed string: [~ 042. M 
+
+
+] | TZ:21600 |  GMT- 08/24/20 22:38:03
+Local: 08/24/20 17:38:03 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Parse this speed.txt file string: [~ 042. M 
+
+
+] | TZ:21600 |  GMT- 08/24/20 22:38:03
+Local: 08/24/20 17:38:03 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed (integer): [42] | TZ:21600 |  GMT- 08/24/20 22:38:03
+Local: 08/24/20 17:38:03 | 0030-RunStandardAndPracticeSession       - | Response from WaitForSpeedFile:  ReturnSpeedValue = [42]  SpeedAddon = [3] | TZ:21600 |  GMT- 08/24/20 22:38:03
+Local: 08/24/20 17:38:03 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [+RELEASE] | TZ:21600 |  GMT- 08/24/20 22:38:03
+Local: 08/24/20 17:38:07 | 0030-RunStandardAndPracticeSession       - | Calling InpactResult: [/home/pi/ImpactLocator/ImpactLocator.out /home/pi/NetworkShare/Cam1BallLine.png /home/pi/NetworkShare/Cam2BallLine.png > /home/pi/NetworkShare/ImpactResult.txt] | TZ:21600 |  GMT- 08/24/20 22:38:07
+Local: 08/24/20 17:38:07 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [NO PITCH] | TZ:21600 |  GMT- 08/24/20 22:38:07
+Local: 08/24/20 17:38:08 | DEBUG LINE 10-26-18 htc              | NO PITCH - NO PITCH - NO PITCH | TZ:21600 |  GMT- 08/24/20 22:38:08
+Local: 08/24/20 17:38:08 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [Grd Slam] | TZ:21600 |  GMT- 08/24/20 22:38:08
+Local: 08/24/20 17:38:08 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-08-24 17:38:08.936518] | TZ:21600 |  GMT- 08/24/20 22:38:08
+Local: 08/24/20 17:38:08 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-08-24 18:38:08.936518] | TZ:21600 |  GMT- 08/24/20 22:38:08
+Local: 08/24/20 17:38:08 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-08-24 17:38:08.936537] | TZ:21600 |  GMT- 08/24/20 22:38:08
+Local: 08/24/20 17:38:08 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 08/24/20 22:38:08
+Local: 08/24/20 17:38:08 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 08/24/20 22:38:08
+Local: 08/24/20 17:38:15 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed string: [~ 050. M 
+
+
+] | TZ:21600 |  GMT- 08/24/20 22:38:15
+Local: 08/24/20 17:38:15 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Parse this speed.txt file string: [~ 050. M 
+
+
+] | TZ:21600 |  GMT- 08/24/20 22:38:15
+Local: 08/24/20 17:38:15 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed (integer): [50] | TZ:21600 |  GMT- 08/24/20 22:38:15
+Local: 08/24/20 17:38:15 | 0030-RunStandardAndPracticeSession       - | Response from WaitForSpeedFile:  ReturnSpeedValue = [50]  SpeedAddon = [3] | TZ:21600 |  GMT- 08/24/20 22:38:15
+Local: 08/24/20 17:38:15 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [+RELEASE] | TZ:21600 |  GMT- 08/24/20 22:38:15
+Local: 08/24/20 17:38:19 | 0030-RunStandardAndPracticeSession       - | Calling InpactResult: [/home/pi/ImpactLocator/ImpactLocator.out /home/pi/NetworkShare/Cam1BallLine.png /home/pi/NetworkShare/Cam2BallLine.png > /home/pi/NetworkShare/ImpactResult.txt] | TZ:21600 |  GMT- 08/24/20 22:38:19
+Local: 08/24/20 17:38:19 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [NO PITCH] | TZ:21600 |  GMT- 08/24/20 22:38:19
+Local: 08/24/20 17:38:21 | DEBUG LINE 10-26-18 htc              | NO PITCH - NO PITCH - NO PITCH | TZ:21600 |  GMT- 08/24/20 22:38:21
+Local: 08/24/20 17:38:21 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [Grd Slam] | TZ:21600 |  GMT- 08/24/20 22:38:21
+Local: 08/24/20 17:38:21 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-08-24 17:38:21.149994] | TZ:21600 |  GMT- 08/24/20 22:38:21
+Local: 08/24/20 17:38:21 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-08-24 18:38:21.149994] | TZ:21600 |  GMT- 08/24/20 22:38:21
+Local: 08/24/20 17:38:21 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-08-24 17:38:21.150016] | TZ:21600 |  GMT- 08/24/20 22:38:21
+Local: 08/24/20 17:38:21 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 08/24/20 22:38:21
+Local: 08/24/20 17:38:21 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 08/24/20 22:38:21
+Local: 08/24/20 17:38:42 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed string: [~ 043. M 
+
+
+] | TZ:21600 |  GMT- 08/24/20 22:38:42
+Local: 08/24/20 17:38:42 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Parse this speed.txt file string: [~ 043. M 
+
+
+] | TZ:21600 |  GMT- 08/24/20 22:38:42
+Local: 08/24/20 17:38:42 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed (integer): [43] | TZ:21600 |  GMT- 08/24/20 22:38:42
+Local: 08/24/20 17:38:42 | 0030-RunStandardAndPracticeSession       - | Response from WaitForSpeedFile:  ReturnSpeedValue = [43]  SpeedAddon = [3] | TZ:21600 |  GMT- 08/24/20 22:38:42
+Local: 08/24/20 17:38:42 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [+RELEASE] | TZ:21600 |  GMT- 08/24/20 22:38:42
+Local: 08/24/20 17:38:46 | 0030-RunStandardAndPracticeSession       - | Calling InpactResult: [/home/pi/ImpactLocator/ImpactLocator.out /home/pi/NetworkShare/Cam1BallLine.png /home/pi/NetworkShare/Cam2BallLine.png > /home/pi/NetworkShare/ImpactResult.txt] | TZ:21600 |  GMT- 08/24/20 22:38:46
+Local: 08/24/20 17:38:46 | 6521-XevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for X translation of Ozan % of net to Columns (A-Z) : | TZ:21600 |  GMT- 08/24/20 22:38:46
+Local: 08/24/20 17:38:46 | XevalNetLocPctCoordsV1 | intPctOfXcol: 90 | TZ:21600 |  GMT- 08/24/20 22:38:46
+Local: 08/24/20 17:38:46 | XevalNetLocPctCoordsV1 | gstrFinalImpactSMgridX: Y | TZ:21600 |  GMT- 08/24/20 22:38:46
+Local: 08/24/20 17:38:46 | 6543-YevalNetLocPctCoordsV1          - | Using CUSTOM-TWO Values for Y translation of Ozan % of net to Row (1-26) : | TZ:21600 |  GMT- 08/24/20 22:38:46
+Local: 08/24/20 17:38:46 | YevalNetLocPctCoordsV1 | intPctOfYrow: 3 | TZ:21600 |  GMT- 08/24/20 22:38:46
+Local: 08/24/20 17:38:46 | YevalNetLocPctCoordsV1 | gintFinalImpactSMgridY: 4 | TZ:21600 |  GMT- 08/24/20 22:38:46
+Local: 08/24/20 17:38:46 | DEBUG LINE 10-03-18 htc - x/y coordinate Pct Teaks | Translate Ozans Pct X/Y to Actual X/Y Values = 90 X-pct = Y / 3 Y-pct = 4 | TZ:21600 |  GMT- 08/24/20 22:38:46
+Local: 08/24/20 17:38:46 | 0021-EvalSuccessMiss                   - | EvalSuccessMiss: [Baseball, 25, 4] | TZ:21600 |  GMT- 08/24/20 22:38:46
+Local: 08/24/20 17:38:46 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [- MISS -] | TZ:21600 |  GMT- 08/24/20 22:38:46
+Local: 08/24/20 17:38:46 | 0071-DisplayImpactLocation              - | Display Impact location: [25, 4] | TZ:21600 |  GMT- 08/24/20 22:38:46
+Local: 08/24/20 17:38:47 | DEBUG LINE 01-05-19 htc              | Preparing to call MOVEMENT Sub-Routine. | TZ:21600 |  GMT- 08/24/20 22:38:47
+Local: 08/24/20 17:38:47 | DEBUG LINE 01-05-19 htc              | Inside MOVEMENT Sub-Routine. BallCentersString1 (ONE) = [159,232
+] | TZ:21600 |  GMT- 08/24/20 22:38:47
+Local: 08/24/20 17:38:47 | DEBUG LINE 01-05-19 htc              | Inside MOVEMENT Sub-Routine. BallCentersString2 (TWO) = [68,48
+57,145
+] | TZ:21600 |  GMT- 08/24/20 22:38:47
+Local: 08/24/20 17:38:47 | DEBUG LINE 01-05-19 htc              | Movement Sub-routine Call Result: [error-11] | TZ:21600 |  GMT- 08/24/20 22:38:47
+Local: 08/24/20 17:38:47 | WriteOnePitchToLocalPitchTable | Machine ID at start of WriteOnePitchToLocalPitchTable CU0022-2 | TZ:21600 |  GMT- 08/24/20 22:38:47
+Local: 08/24/20 17:38:47 | 3460-WriteOnePitchToLocalPitchTable - | Valstring: ) Values ("CU0022-2", "A100096", "915", "1", "43", "46", "25", "Y", "4", "MISS", "60", "Baseball", "2020-08-24 17:38:47.659419", "standard", "SMV1-SL-R", "STANDARD", "None", "-*-", "-*-", "-*-", "-*-", "0", "unknown", "", "", "-*-", "Cam-ONE-pixelsX/Y: 159, 232 | Cam-TWO-pixelsX/Y: 68, 48 / 57, 145", "01/01/1900", "-*-", "right cam tag", "left cam tag", "spin cam tag", "PitchSessionFiles/CU0022-2-000915-A100096/001Cam1CriticalFrame.png", "PitchSessionFiles/CU0022-2-000915-A100096/001Impact.jpg", "PitchSessionFiles/CU0022-2-000915-A100096/001front.png", "PitchSessionFiles/CU0022-2-000915-A100096/001side.png", "PitchSessionFiles/CU0022-2-000915-A100096/001top.png", "", "impact", "img right", "img left", "target", "", "", "0", "0", "", "0", "0", "0", "PS-01", "RS-01: +3", "0", "", "0") | TZ:21600 |  GMT- 08/24/20 22:38:47
+Local: 08/24/20 17:38:47 | 3460-WriteOnePitchToLocalPitchTable - | CurrPitch_MovementInfo for Pitch [1] Cam-ONE-pixelsX/Y: 159, 232 | Cam-TWO-pixelsX/Y: 68, 48 / 57, 145 | TZ:21600 |  GMT- 08/24/20 22:38:47
+Local: 08/24/20 17:38:47 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [Grd Slam] | TZ:21600 |  GMT- 08/24/20 22:38:47
+Local: 08/24/20 17:38:47 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-08-24 17:38:47.796275] | TZ:21600 |  GMT- 08/24/20 22:38:47
+Local: 08/24/20 17:38:47 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-08-24 18:38:47.796275] | TZ:21600 |  GMT- 08/24/20 22:38:47
+Local: 08/24/20 17:38:47 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-08-24 17:38:47.796291] | TZ:21600 |  GMT- 08/24/20 22:38:47
+Local: 08/24/20 17:38:47 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 08/24/20 22:38:47
+Local: 08/24/20 17:38:47 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 08/24/20 22:38:47
+Local: 08/24/20 17:38:58 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed string: [~ 045. M 
+
+
+] | TZ:21600 |  GMT- 08/24/20 22:38:58
+Local: 08/24/20 17:38:58 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Parse this speed.txt file string: [~ 045. M 
+
+
+] | TZ:21600 |  GMT- 08/24/20 22:38:58
+Local: 08/24/20 17:38:58 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed (integer): [45] | TZ:21600 |  GMT- 08/24/20 22:38:58
+Local: 08/24/20 17:38:58 | 0030-RunStandardAndPracticeSession       - | Response from WaitForSpeedFile:  ReturnSpeedValue = [45]  SpeedAddon = [3] | TZ:21600 |  GMT- 08/24/20 22:38:58
+Local: 08/24/20 17:38:58 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [+RELEASE] | TZ:21600 |  GMT- 08/24/20 22:38:58
+Local: 08/24/20 17:39:03 | 0030-RunStandardAndPracticeSession       - | Found NOPITCH.txt file in NetworkSharePath, abortintg this pitch as no-pitch. | TZ:21600 |  GMT- 08/24/20 22:39:03
+Local: 08/24/20 17:39:03 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [NO PITCH] | TZ:21600 |  GMT- 08/24/20 22:39:03
+Local: 08/24/20 17:39:04 | DEBUG LINE 10-26-18 htc              | NO PITCH - NO PITCH - NO PITCH | TZ:21600 |  GMT- 08/24/20 22:39:04
+Local: 08/24/20 17:39:04 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [Grd Slam] | TZ:21600 |  GMT- 08/24/20 22:39:04
+Local: 08/24/20 17:39:04 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-08-24 17:39:04.378766] | TZ:21600 |  GMT- 08/24/20 22:39:04
+Local: 08/24/20 17:39:04 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-08-24 18:39:04.378766] | TZ:21600 |  GMT- 08/24/20 22:39:04
+Local: 08/24/20 17:39:04 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-08-24 17:39:04.378789] | TZ:21600 |  GMT- 08/24/20 22:39:04
+Local: 08/24/20 17:39:04 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 08/24/20 22:39:04
+Local: 08/24/20 17:39:04 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 08/24/20 22:39:04
+Local: 08/24/20 17:39:36 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed string: [~ 049. M 
+
+
+] | TZ:21600 |  GMT- 08/24/20 22:39:36
+Local: 08/24/20 17:39:36 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Parse this speed.txt file string: [~ 049. M 
+
+
+] | TZ:21600 |  GMT- 08/24/20 22:39:36
+Local: 08/24/20 17:39:36 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed (integer): [49] | TZ:21600 |  GMT- 08/24/20 22:39:36
+Local: 08/24/20 17:39:36 | 0030-RunStandardAndPracticeSession       - | Response from WaitForSpeedFile:  ReturnSpeedValue = [49]  SpeedAddon = [3] | TZ:21600 |  GMT- 08/24/20 22:39:36
+Local: 08/24/20 17:39:36 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [+RELEASE] | TZ:21600 |  GMT- 08/24/20 22:39:36
+Local: 08/24/20 17:39:40 | 0030-RunStandardAndPracticeSession       - | Calling InpactResult: [/home/pi/ImpactLocator/ImpactLocator.out /home/pi/NetworkShare/Cam1BallLine.png /home/pi/NetworkShare/Cam2BallLine.png > /home/pi/NetworkShare/ImpactResult.txt] | TZ:21600 |  GMT- 08/24/20 22:39:40
+Local: 08/24/20 17:39:40 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [NO PITCH] | TZ:21600 |  GMT- 08/24/20 22:39:40
+Local: 08/24/20 17:39:41 | DEBUG LINE 10-26-18 htc              | NO PITCH - NO PITCH - NO PITCH | TZ:21600 |  GMT- 08/24/20 22:39:41
+Local: 08/24/20 17:39:41 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [Grd Slam] | TZ:21600 |  GMT- 08/24/20 22:39:41
+Local: 08/24/20 17:39:41 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-08-24 17:39:41.916614] | TZ:21600 |  GMT- 08/24/20 22:39:41
+Local: 08/24/20 17:39:41 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-08-24 18:39:41.916614] | TZ:21600 |  GMT- 08/24/20 22:39:41
+Local: 08/24/20 17:39:41 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-08-24 17:39:41.916638] | TZ:21600 |  GMT- 08/24/20 22:39:41
+Local: 08/24/20 17:39:41 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 08/24/20 22:39:41
+Local: 08/24/20 17:39:41 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 08/24/20 22:39:41
+Local: 08/24/20 17:39:51 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed string: [~ 052. M 
+
+
+] | TZ:21600 |  GMT- 08/24/20 22:39:51
+Local: 08/24/20 17:39:51 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Parse this speed.txt file string: [~ 052. M 
+
+
+] | TZ:21600 |  GMT- 08/24/20 22:39:51
+Local: 08/24/20 17:39:51 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed (integer): [52] | TZ:21600 |  GMT- 08/24/20 22:39:51
+Local: 08/24/20 17:39:51 | 0030-RunStandardAndPracticeSession       - | Response from WaitForSpeedFile:  ReturnSpeedValue = [52]  SpeedAddon = [3] | TZ:21600 |  GMT- 08/24/20 22:39:51
+Local: 08/24/20 17:39:51 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [+RELEASE] | TZ:21600 |  GMT- 08/24/20 22:39:51
+Local: 08/24/20 17:39:56 | 0030-RunStandardAndPracticeSession       - | Found NOPITCH.txt file in NetworkSharePath, abortintg this pitch as no-pitch. | TZ:21600 |  GMT- 08/24/20 22:39:56
+Local: 08/24/20 17:39:56 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [NO PITCH] | TZ:21600 |  GMT- 08/24/20 22:39:56
+Local: 08/24/20 17:39:57 | DEBUG LINE 10-26-18 htc              | NO PITCH - NO PITCH - NO PITCH | TZ:21600 |  GMT- 08/24/20 22:39:57
+Local: 08/24/20 17:39:57 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [Grd Slam] | TZ:21600 |  GMT- 08/24/20 22:39:57
+Local: 08/24/20 17:39:57 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-08-24 17:39:57.393429] | TZ:21600 |  GMT- 08/24/20 22:39:57
+Local: 08/24/20 17:39:57 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-08-24 18:39:57.393429] | TZ:21600 |  GMT- 08/24/20 22:39:57
+Local: 08/24/20 17:39:57 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-08-24 17:39:57.393443] | TZ:21600 |  GMT- 08/24/20 22:39:57
+Local: 08/24/20 17:39:57 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 08/24/20 22:39:57
+Local: 08/24/20 17:39:57 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 08/24/20 22:39:57
+Local: 08/24/20 17:40:12 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed string: [~ 039. M 
+
+
+] | TZ:21600 |  GMT- 08/24/20 22:40:12
+Local: 08/24/20 17:40:12 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Parse this speed.txt file string: [~ 039. M 
+
+
+] | TZ:21600 |  GMT- 08/24/20 22:40:12
+Local: 08/24/20 17:40:12 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed (integer): [39] | TZ:21600 |  GMT- 08/24/20 22:40:12
+Local: 08/24/20 17:40:12 | 0030-RunStandardAndPracticeSession       - | Response from WaitForSpeedFile:  ReturnSpeedValue = [39]  SpeedAddon = [3] | TZ:21600 |  GMT- 08/24/20 22:40:12
+Local: 08/24/20 17:40:12 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [+RELEASE] | TZ:21600 |  GMT- 08/24/20 22:40:12
+Local: 08/24/20 17:40:17 | 0030-RunStandardAndPracticeSession       - | Found NOPITCH.txt file in NetworkSharePath, abortintg this pitch as no-pitch. | TZ:21600 |  GMT- 08/24/20 22:40:17
+Local: 08/24/20 17:40:17 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [NO PITCH] | TZ:21600 |  GMT- 08/24/20 22:40:17
+Local: 08/24/20 17:40:18 | DEBUG LINE 10-26-18 htc              | NO PITCH - NO PITCH - NO PITCH | TZ:21600 |  GMT- 08/24/20 22:40:18
+Local: 08/24/20 17:40:18 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [Grd Slam] | TZ:21600 |  GMT- 08/24/20 22:40:18
+Local: 08/24/20 17:40:18 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-08-24 17:40:18.400319] | TZ:21600 |  GMT- 08/24/20 22:40:18
+Local: 08/24/20 17:40:18 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-08-24 18:40:18.400319] | TZ:21600 |  GMT- 08/24/20 22:40:18
+Local: 08/24/20 17:40:18 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-08-24 17:40:18.400342] | TZ:21600 |  GMT- 08/24/20 22:40:18
+Local: 08/24/20 17:40:18 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 08/24/20 22:40:18
+Local: 08/24/20 17:40:18 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 08/24/20 22:40:18
+Local: 08/24/20 17:40:18 | 2033-WaitForSpeedFile          - | stop.txt #2 file found, ending SmMain.py: [/var/www/html/students/stop.txt] | TZ:21600 |  GMT- 08/24/20 22:40:18
+Local: 08/24/20 17:40:18 | 0030-RunStandardAndPracticeSession       - | Response from WaitForSpeedFile:  ReturnSpeedValue = [4]  SpeedAddon = [3] | TZ:21600 |  GMT- 08/24/20 22:40:18
+Local: 08/24/20 17:40:18 | 0030-RunStandardAndPracticeSession       - | SpeedReturnValue = 4, stop.txt file found, ending program normally- reason: [TimeOut] File found at: /var/www/html/students/stop.txt | TZ:21600 |  GMT- 08/24/20 22:40:18
+Local: 08/24/20 17:40:18 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [TimeOut] | TZ:21600 |  GMT- 08/24/20 22:40:18
+Local: 08/24/20 17:40:23 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [CU0022-2] | TZ:21600 |  GMT- 08/24/20 22:40:23
+Local: 08/24/20 17:40:23 | 0001-Main -                   - | Session Number 915 Ended with Status: TimeOut | TZ:21600 |  GMT- 08/24/20 22:40:23

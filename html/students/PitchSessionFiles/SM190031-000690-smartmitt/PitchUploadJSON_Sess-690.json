@@ -1,0 +1,137 @@
+{
+"update":
+[
+{
+"type":"string",
+"key":"SessionNumber",
+"value":"SM190031-690"
+} , {
+"type":"string",
+"key":"AccountID",
+"value":"smartmitt"
+}
+],
+"rows":
+[
+{
+"Camera ID":"SM190031",
+"SessionNumber":"SM190031-690",
+"AccountID":"smartmitt",
+"Distance":"43",
+"PitchNumber":1,
+"X":"Y",
+"Y":12,
+"Date":"2019-09-08T16:35:38",
+"Time":"2019-09-08T16:35:38",
+"MPH":"28.0",
+"MPH Plate Speed":"28.0",
+"MPH Release":"31.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"Y",
+"Y":12,
+"EI Row ID":"SM190031-690-1",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"SM190031",
+"SessionNumber":"SM190031-690",
+"AccountID":"smartmitt",
+"Distance":"43",
+"PitchNumber":2,
+"X":"G",
+"Y":9,
+"Date":"2019-09-08T16:41:30",
+"Time":"2019-09-08T16:41:30",
+"MPH":"39.0",
+"MPH Plate Speed":"39.0",
+"MPH Release":"42.0",
+"Call":"SUCCESS",
+"Call":"SUCCESS",
+"X":"G",
+"Y":9,
+"EI Row ID":"SM190031-690-2",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"SM190031",
+"SessionNumber":"SM190031-690",
+"AccountID":"smartmitt",
+"Distance":"43",
+"PitchNumber":3,
+"X":"T",
+"Y":24,
+"Date":"2019-09-08T16:44:50",
+"Time":"2019-09-08T16:44:50",
+"MPH":"37.0",
+"MPH Plate Speed":"37.0",
+"MPH Release":"40.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"T",
+"Y":24,
+"EI Row ID":"SM190031-690-3",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"SM190031",
+"SessionNumber":"SM190031-690",
+"AccountID":"smartmitt",
+"Distance":"43",
+"PitchNumber":4,
+"X":"Y",
+"Y":9,
+"Date":"2019-09-08T16:46:12",
+"Time":"2019-09-08T16:46:12",
+"MPH":"42.0",
+"MPH Plate Speed":"42.0",
+"MPH Release":"45.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"Y",
+"Y":9,
+"EI Row ID":"SM190031-690-4",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"SM190031",
+"SessionNumber":"SM190031-690",
+"AccountID":"smartmitt",
+"Distance":"43",
+"PitchNumber":5,
+"X":"Q",
+"Y":24,
+"Date":"2019-09-08T16:46:49",
+"Time":"2019-09-08T16:46:49",
+"MPH":"47.0",
+"MPH Plate Speed":"47.0",
+"MPH Release":"50.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"Q",
+"Y":24,
+"EI Row ID":"SM190031-690-5",
+"EI Row Count":"1"
+}
+,{
+"Camera ID":"SM190031",
+"SessionNumber":"SM190031-690",
+"AccountID":"smartmitt",
+"Distance":"43",
+"PitchNumber":6,
+"X":"W",
+"Y":25,
+"Date":"2019-09-08T16:47:20",
+"Time":"2019-09-08T16:47:20",
+"MPH":"44.0",
+"MPH Plate Speed":"44.0",
+"MPH Release":"47.0",
+"Call":"MISS",
+"Call":"MISS",
+"X":"W",
+"Y":25,
+"EI Row ID":"SM190031-690-6",
+"EI Row Count":"1"
+}
+]
+}

@@ -1,0 +1,70 @@
+Local Time: Tue, 18 Aug 2020 14:41:46 |** VER-3.00-GLOBAL CODE **| MMainLogFile Initialized - NEW file. | TZ:21600 |  GMT- Tue, 18 Aug 2020 19:41:46
+Play Sound Coordinates: K, 10 to P, 16
+Local Time: 14:41:46 | Check Point 1 | 
+Local Time: 14:41:46 | Check Point 2 | 
+Local Time: 14:41:46 | Check Point 3 | 
+Local Time: 14:41:46 | Check Point 4 | 
+Local Time: 14:41:46 | Check Point 5 | 
+Local Time: 14:41:46 | Check Point 6 | 
+Local Time: 14:41:46 | Check Point 7 | 
+Local: 08/18/20 14:41:46 | 0001-Main                    - | START OF MAIN in home folder: /var/www/html/students | TZ:21600 |  GMT- 08/18/20 19:41:46
+Local: 08/18/20 14:41:46 | 0001-Main                    - | Python Script Runtime Arguments: SmMain.py - ['SmMain.py', '858'] | TZ:21600 |  GMT- 08/18/20 19:41:46
+Local Time: 14:41:46 | Check Point 8 | 
+Local: 08/18/20 14:41:46 | 0001-Main                    - | ('Linux', 'SM190031', '4.9.0-4-amd64', '#1 SMP Debian 4.9.65-3+deb9u1 (2017-12-23)', 'x86_64', '') | TZ:21600 |  GMT- 08/18/20 19:41:46
+Local: 08/18/20 14:41:46 | 0001-Main                    - | () | TZ:21600 |  GMT- 08/18/20 19:41:46
+Local: 08/18/20 14:41:46 | 0001-Main                    - | uname_result(system='Linux', node='SM190031', release='4.9.0-4-amd64', version='#1 SMP Debian 4.9.65-3+deb9u1 (2017-12-23)', machine='x86_64', processor='') | TZ:21600 |  GMT- 08/18/20 19:41:46
+Local: 08/18/20 14:41:46 | 0001-Main -                   - | Machine ID (UnitSerialNumber) from local smconfig table: CU0022-2 | TZ:21600 |  GMT- 08/18/20 19:41:46
+Local: 08/18/20 14:41:46 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [CU0022-2] | TZ:21600 |  GMT- 08/18/20 19:41:46
+Local: 08/18/20 14:41:46 | main | Machine ID after Marquee CU0022-2 | TZ:21600 |  GMT- 08/18/20 19:41:46
+Local Time: 14:41:46 | Check Point 9 | 
+Local Time: 14:41:46 | Check Point 10 | 
+Local: 08/18/20 14:41:46 |    0001-Main -                   - | Session Number PASSED TO PROGRAM: 858 | TZ:21600 |  GMT- 08/18/20 19:41:46
+Local: 08/18/20 14:41:46 |    0001-Main -                   - | Session Number READ / id Returned: 858 / 756 | TZ:21600 |  GMT- 08/18/20 19:41:46
+Local: 08/18/20 14:41:46 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [VER-3.00] | TZ:21600 |  GMT- 08/18/20 19:41:46
+Local: 08/18/20 14:41:47 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [CU0022-2] | TZ:21600 |  GMT- 08/18/20 19:41:47
+Local: 08/18/20 14:41:48 | main | Session number858 | TZ:21600 |  GMT- 08/18/20 19:41:48
+Local: 08/18/20 14:41:48 | main | {'machineId': 'SM990005', 'showPlateSpeed': True, 'showResults': True, 'showReleaseSpeed': True, 'status': 'Open', 'type': 'standard'} | TZ:21600 |  GMT- 08/18/20 19:41:48
+Local: 08/18/20 14:41:48 | main | {'machineId': 'SM990005', 'showPlateSpeed': True, 'showResults': True, 'showReleaseSpeed': True, 'status': 'Open', 'type': 'standard'} | TZ:21600 |  GMT- 08/18/20 19:41:48
+Local: 08/18/20 14:41:48 | 0030-RunStandardAndPracticeSession       - | run STANDARD Session Mode with session number: [858] | TZ:21600 |  GMT- 08/18/20 19:41:48
+Local: 08/18/20 14:41:48 | 0030-RunStandardAndPracticeSession       - | Try to run- sudo mkdir  on: [/var/www/html/students/PitchSessionFiles/CU0022-2-000858-A100410] | TZ:21600 |  GMT- 08/18/20 19:41:48
+Local: 08/18/20 14:41:48 | 0030-RunStandardAndPracticeSession       - | Return value from OS on sudo mkdir command: [0] | TZ:21600 |  GMT- 08/18/20 19:41:48
+Local: 08/18/20 14:41:48 | 0030-RunStandardAndPracticeSession       - | Try to run- sudo chmod 777 on: [/var/www/html/students/PitchSessionFiles/CU0022-2-000858-A100410] | TZ:21600 |  GMT- 08/18/20 19:41:48
+Local: 08/18/20 14:41:48 | 0030-RunStandardAndPracticeSession       - | Return value from OS on sudo chmod 777 command: [0] | TZ:21600 |  GMT- 08/18/20 19:41:48
+Local: 08/18/20 14:41:48 | 0030-RunStandardAndPracticeSession       - | Try to run- sudo chown pi on: [/var/www/html/students/PitchSessionFiles/CU0022-2-000858-A100410] | TZ:21600 |  GMT- 08/18/20 19:41:48
+Local: 08/18/20 14:41:48 | 0030-RunStandardAndPracticeSession       - | Return value from OS on sudo chOWN command: [0] | TZ:21600 |  GMT- 08/18/20 19:41:48
+Local: 08/18/20 14:41:48 | 0030-RunStandardAndPracticeSession       - | Try to run- sudo chgrp pi on: [/var/www/html/students/PitchSessionFiles/CU0022-2-000858-A100410] | TZ:21600 |  GMT- 08/18/20 19:41:48
+Local: 08/18/20 14:41:48 | 0030-RunStandardAndPracticeSession       - | Return value from OS on sudo chGRP command: [0] | TZ:21600 |  GMT- 08/18/20 19:41:48
+Local: 08/18/20 14:41:48 | 0030-RunStandardAndPracticeSession       - | Starting while loop for KeepProcessingPitches | TZ:21600 |  GMT- 08/18/20 19:41:48
+Local: 08/18/20 14:41:48 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [TTNL-SB] | TZ:21600 |  GMT- 08/18/20 19:41:48
+Local: 08/18/20 14:41:49 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-08-18 14:41:49.040058] | TZ:21600 |  GMT- 08/18/20 19:41:49
+Local: 08/18/20 14:41:49 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-08-18 15:41:49.040058] | TZ:21600 |  GMT- 08/18/20 19:41:49
+Local: 08/18/20 14:41:49 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-08-18 14:41:49.040075] | TZ:21600 |  GMT- 08/18/20 19:41:49
+Local: 08/18/20 14:41:49 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 08/18/20 19:41:49
+Local: 08/18/20 14:41:49 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 08/18/20 19:41:49
+Local: 08/18/20 14:42:15 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed string: [~ 026. M 
+
+
+] | TZ:21600 |  GMT- 08/18/20 19:42:15
+Local: 08/18/20 14:42:15 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Parse this speed.txt file string: [~ 026. M 
+
+
+] | TZ:21600 |  GMT- 08/18/20 19:42:15
+Local: 08/18/20 14:42:15 | 0274-WaitForSpeedFile(TimeOutValueToAbort)   - | Got this speed (integer): [26] | TZ:21600 |  GMT- 08/18/20 19:42:15
+Local: 08/18/20 14:42:15 | 0030-RunStandardAndPracticeSession       - | Response from WaitForSpeedFile:  ReturnSpeedValue = [26]  SpeedAddon = [5] | TZ:21600 |  GMT- 08/18/20 19:42:15
+Local: 08/18/20 14:42:15 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [PLATE SP] | TZ:21600 |  GMT- 08/18/20 19:42:15
+Local: 08/18/20 14:42:16 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [+RELEASE] | TZ:21600 |  GMT- 08/18/20 19:42:16
+Local: 08/18/20 14:42:20 | 0030-RunStandardAndPracticeSession       - | Found NOPITCH.txt file in NetworkSharePath, abortintg this pitch as no-pitch. | TZ:21600 |  GMT- 08/18/20 19:42:20
+Local: 08/18/20 14:42:20 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [NO PITCH] | TZ:21600 |  GMT- 08/18/20 19:42:20
+Local: 08/18/20 14:42:23 | DEBUG LINE 10-26-18 htc              | NO PITCH - NO PITCH - NO PITCH | TZ:21600 |  GMT- 08/18/20 19:42:23
+Local: 08/18/20 14:42:23 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [TTNL-SB] | TZ:21600 |  GMT- 08/18/20 19:42:23
+Local: 08/18/20 14:42:23 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  StartTime: [2020-08-18 14:42:23.165238] | TZ:21600 |  GMT- 08/18/20 19:42:23
+Local: 08/18/20 14:42:23 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  ExpireTime: [2020-08-18 15:42:23.165238] | TZ:21600 |  GMT- 08/18/20 19:42:23
+Local: 08/18/20 14:42:23 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | BEFORE while loop--  CurrentTime: [2020-08-18 14:42:23.165257] | TZ:21600 |  GMT- 08/18/20 19:42:23
+Local: 08/18/20 14:42:23 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Loope Logic is: while (ExpireTime > CurrentTime) | TZ:21600 |  GMT- 08/18/20 19:42:23
+Local: 08/18/20 14:42:23 | 0271-WaitForSpeedFile(TimeOutValueToAbort)   - | Value passeed in TimeOutValueToAbort is added to current time: [3600] | TZ:21600 |  GMT- 08/18/20 19:42:23
+Local: 08/18/20 14:42:40 | 2033-WaitForSpeedFile          - | stop.txt #2 file found, ending SmMain.py: [/var/www/html/students/stop.txt] | TZ:21600 |  GMT- 08/18/20 19:42:40
+Local: 08/18/20 14:42:40 | 0030-RunStandardAndPracticeSession       - | Response from WaitForSpeedFile:  ReturnSpeedValue = [4]  SpeedAddon = [5] | TZ:21600 |  GMT- 08/18/20 19:42:40
+Local: 08/18/20 14:42:40 | 0030-RunStandardAndPracticeSession       - | SpeedReturnValue = 4, stop.txt file found, ending program normally- reason: [TimeOut] File found at: /var/www/html/students/stop.txt | TZ:21600 |  GMT- 08/18/20 19:42:40
+Local: 08/18/20 14:42:40 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [TimeOut] | TZ:21600 |  GMT- 08/18/20 19:42:40
+Local: 08/18/20 14:42:46 | 0009-MarqueeWord             - | MarqueeWord sub-routine with value: [CU0022-2] | TZ:21600 |  GMT- 08/18/20 19:42:46
+Local: 08/18/20 14:42:46 | 0001-Main -                   - | Session Number 858 Ended with Status: TimeOut | TZ:21600 |  GMT- 08/18/20 19:42:46
